@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:01 CEST
+Nmap scan report for 149.156.109.0
+Nmap scan report for taurus.fis.agh.edu.pl (149.156.109.1)
+Nmap scan report for orion-109.fis.agh.edu.pl (149.156.109.2)
+Nmap scan report for feniks-109.fis.agh.edu.pl (149.156.109.3)
+Nmap scan report for 149.156.109.4
+Nmap scan report for apc2.ftj.agh.edu.pl (149.156.109.5)
+Nmap scan report for erydan-109.fis.agh.edu.pl (149.156.109.6)
+Nmap scan report for 149.156.109.7
+Nmap scan report for fatkitten.fis.agh.edu.pl (149.156.109.8)
+Nmap scan report for router-lan109.fis.agh.edu.pl (149.156.109.9)
+Nmap scan report for herkules-109.fis.agh.edu.pl (149.156.109.10)
+Nmap scan report for 149.156.109.11
+Nmap scan report for 149.156.109.12
+Nmap scan report for 149.156.109.13
+Nmap scan report for 149.156.109.14
+Nmap scan report for 149.156.109.15
+Nmap scan report for machedu3.fis.agh.edu.pl (149.156.109.16)
+Nmap scan report for hmc.fis.agh.edu.pl (149.156.109.17)
+Nmap scan report for faisrv.ftj.agh.edu.pl (149.156.109.18)
+Nmap scan report for i5os1.fis.agh.edu.pl (149.156.109.19)
+Nmap scan report for i5os2.fis.agh.edu.pl (149.156.109.20)
+Nmap scan report for vmw1.ftj.agh.edu.pl (149.156.109.21)
+Nmap scan report for vmw2.ftj.agh.edu.pl (149.156.109.22)
+Nmap scan report for vmw3.ftj.agh.edu.pl (149.156.109.23)
+Nmap scan report for 149.156.109.24
+Nmap scan report for vmw5.ftj.agh.edu.pl (149.156.109.25)
+Nmap scan report for vmw6.ftj.agh.edu.pl (149.156.109.26)
+Nmap scan report for vmw7.ftj.agh.edu.pl (149.156.109.27)
+Nmap scan report for vmw8.ftj.agh.edu.pl (149.156.109.28)
+Nmap scan report for krbsrv1.fis.agh.edu.pl (149.156.109.29)
+Nmap scan report for krbsrv2.fis.agh.edu.pl (149.156.109.30)
+Nmap scan report for reksio.ftj.agh.edu.pl (149.156.109.31)
+Nmap scan report for misio-old.fis.agh.edu.pl (149.156.109.32)
+Nmap scan report for vmw13.ftj.agh.edu.pl (149.156.109.33)
+Nmap scan report for vmw14.ftj.agh.edu.pl (149.156.109.34)
+Nmap scan report for mech.fis.agh.edu.pl (149.156.109.35)
+Nmap scan report for misio.fis.agh.edu.pl (149.156.109.36)
+Nmap scan report for neo4j.fis.agh.edu.pl (149.156.109.37)
+Nmap scan report for prgzsp.fis.agh.edu.pl (149.156.109.38)
+Nmap scan report for 149.156.109.39
+Nmap scan report for 149.156.109.40
+Nmap scan report for 149.156.109.41
+Nmap scan report for 149.156.109.42
+Nmap scan report for 149.156.109.43
+Nmap scan report for 149.156.109.44
+Nmap scan report for 149.156.109.45
+Nmap scan report for 149.156.109.46
+Nmap scan report for 149.156.109.47
+Nmap scan report for 149.156.109.48
+Nmap scan report for 149.156.109.49
+Nmap scan report for 149.156.109.50
+Nmap scan report for 149.156.109.51
+Nmap scan report for 149.156.109.52
+Nmap scan report for 149.156.109.53
+Nmap scan report for 149.156.109.54
+Nmap scan report for 149.156.109.55
+Nmap scan report for 149.156.109.56
+Nmap scan report for 149.156.109.57
+Nmap scan report for 149.156.109.58
+Nmap scan report for 149.156.109.59
+Nmap scan report for 149.156.109.60
+Nmap scan report for koi1.fis.agh.edu.pl (149.156.109.61)
+Nmap scan report for koi2.fis.agh.edu.pl (149.156.109.62)
+Nmap scan report for koi3.fis.agh.edu.pl (149.156.109.63)
+Nmap scan report for koi4.fis.agh.edu.pl (149.156.109.64)
+Nmap scan report for 149.156.109.65
+Nmap scan report for koi.fis.agh.edu.pl (149.156.109.66)
+Nmap scan report for dziekanat.ticket.fis.agh.edu.pl (149.156.109.67)
+Nmap scan report for ticket.fis.agh.edu.pl (149.156.109.68)
+Nmap scan report for agile.fis.agh.edu.pl (149.156.109.69)
+Nmap scan report for indico.fis.agh.edu.pl (149.156.109.70)
+Nmap scan report for 149.156.109.71
+Nmap scan report for 149.156.109.72
+Nmap scan report for 149.156.109.73
+Nmap scan report for 149.156.109.74
+Nmap scan report for 149.156.109.75
+Nmap scan report for 149.156.109.76
+Nmap scan report for 149.156.109.77
+Nmap scan report for 149.156.109.78
+Nmap scan report for 149.156.109.79
+Nmap scan report for host109-80.fis.agh.edu.pl (149.156.109.80)
+Nmap scan report for host109-81.fis.agh.edu.pl (149.156.109.81)
+Nmap scan report for host109-82.fis.agh.edu.pl (149.156.109.82)
+Nmap scan report for host109-83.fis.agh.edu.pl (149.156.109.83)
+Nmap scan report for host109-84.fis.agh.edu.pl (149.156.109.84)
+Nmap scan report for host109-85.fis.agh.edu.pl (149.156.109.85)
+Nmap scan report for host109-86.fis.agh.edu.pl (149.156.109.86)
+Nmap scan report for host109-87.fis.agh.edu.pl (149.156.109.87)
+Nmap scan report for host109-88.fis.agh.edu.pl (149.156.109.88)
+Nmap scan report for host109-89.fis.agh.edu.pl (149.156.109.89)
+Nmap scan report for host109-90.fis.agh.edu.pl (149.156.109.90)
+Nmap scan report for host109-91.fis.agh.edu.pl (149.156.109.91)
+Nmap scan report for host109-92.fis.agh.edu.pl (149.156.109.92)
+Nmap scan report for host109-93.fis.agh.edu.pl (149.156.109.93)
+Nmap scan report for host109-94.fis.agh.edu.pl (149.156.109.94)
+Nmap scan report for host109-95.fis.agh.edu.pl (149.156.109.95)
+Nmap scan report for host109-96.fis.agh.edu.pl (149.156.109.96)
+Nmap scan report for host109-97.fis.agh.edu.pl (149.156.109.97)
+Nmap scan report for host109-98.fis.agh.edu.pl (149.156.109.98)
+Nmap scan report for host109-99.fis.agh.edu.pl (149.156.109.99)
+Nmap scan report for ns.sandbox.fis.agh.edu.pl (149.156.109.100)
+Nmap scan report for stud101.fis.agh.edu.pl (149.156.109.101)
+Nmap scan report for stud102.fis.agh.edu.pl (149.156.109.102)
+Nmap scan report for stud103.fis.agh.edu.pl (149.156.109.103)
+Nmap scan report for stud104.fis.agh.edu.pl (149.156.109.104)
+Nmap scan report for stud105.fis.agh.edu.pl (149.156.109.105)
+Nmap scan report for stud106.fis.agh.edu.pl (149.156.109.106)
+Nmap scan report for stud107.fis.agh.edu.pl (149.156.109.107)
+Nmap scan report for stud108.fis.agh.edu.pl (149.156.109.108)
+Nmap scan report for stud109.fis.agh.edu.pl (149.156.109.109)
+Nmap scan report for stud110.fis.agh.edu.pl (149.156.109.110)
+Nmap scan report for stud111.fis.agh.edu.pl (149.156.109.111)
+Nmap scan report for stud112.fis.agh.edu.pl (149.156.109.112)
+Nmap scan report for stud113.fis.agh.edu.pl (149.156.109.113)
+Nmap scan report for stud114.fis.agh.edu.pl (149.156.109.114)
+Nmap scan report for stud115.fis.agh.edu.pl (149.156.109.115)
+Nmap scan report for stud116.fis.agh.edu.pl (149.156.109.116)
+Nmap scan report for 149.156.109.117
+Nmap scan report for 149.156.109.118
+Nmap scan report for 149.156.109.119
+Nmap scan report for 149.156.109.120
+Nmap scan report for 149.156.109.121
+Nmap scan report for 149.156.109.122
+Nmap scan report for 149.156.109.123
+Nmap scan report for 149.156.109.124
+Nmap scan report for 149.156.109.125
+Nmap scan report for 149.156.109.126
+Nmap scan report for 149.156.109.127
+Nmap scan report for 149.156.109.128
+Nmap scan report for 149.156.109.129
+Nmap scan report for 149.156.109.130
+Nmap scan report for 149.156.109.131
+Nmap scan report for 149.156.109.132
+Nmap scan report for 149.156.109.133
+Nmap scan report for 149.156.109.134
+Nmap scan report for 149.156.109.135
+Nmap scan report for 149.156.109.136
+Nmap scan report for 149.156.109.137
+Nmap scan report for 149.156.109.138
+Nmap scan report for 149.156.109.139
+Nmap scan report for 149.156.109.140
+Nmap scan report for stud141.fis.agh.edu.pl (149.156.109.141)
+Nmap scan report for stud142.fis.agh.edu.pl (149.156.109.142)
+Nmap scan report for stud143.fis.agh.edu.pl (149.156.109.143)
+Nmap scan report for stud144.fis.agh.edu.pl (149.156.109.144)
+Nmap scan report for stud145.fis.agh.edu.pl (149.156.109.145)
+Nmap scan report for stud146.fis.agh.edu.pl (149.156.109.146)
+Nmap scan report for stud147.fis.agh.edu.pl (149.156.109.147)
+Nmap scan report for stud148.fis.agh.edu.pl (149.156.109.148)
+Nmap scan report for stud149.fis.agh.edu.pl (149.156.109.149)
+Nmap scan report for stud150.fis.agh.edu.pl (149.156.109.150)
+Nmap scan report for stud151.fis.agh.edu.pl (149.156.109.151)
+Nmap scan report for stud152.fis.agh.edu.pl (149.156.109.152)
+Nmap scan report for stud153.fis.agh.edu.pl (149.156.109.153)
+Nmap scan report for stud154.fis.agh.edu.pl (149.156.109.154)
+Nmap scan report for stud155.fis.agh.edu.pl (149.156.109.155)
+Nmap scan report for stud156.fis.agh.edu.pl (149.156.109.156)
+Nmap scan report for stud157.fis.agh.edu.pl (149.156.109.157)
+Nmap scan report for stud158.fis.agh.edu.pl (149.156.109.158)
+Nmap scan report for stud159.fis.agh.edu.pl (149.156.109.159)
+Nmap scan report for stud160.fis.agh.edu.pl (149.156.109.160)
+Nmap scan report for stud161.fis.agh.edu.pl (149.156.109.161)
+Nmap scan report for stud162.fis.agh.edu.pl (149.156.109.162)
+Nmap scan report for stud163.fis.agh.edu.pl (149.156.109.163)
+Nmap scan report for stud164.fis.agh.edu.pl (149.156.109.164)
+Nmap scan report for stud165.fis.agh.edu.pl (149.156.109.165)
+Nmap scan report for stud166.fis.agh.edu.pl (149.156.109.166)
+Nmap scan report for stud167.fis.agh.edu.pl (149.156.109.167)
+Nmap scan report for stud168.fis.agh.edu.pl (149.156.109.168)
+Nmap scan report for stud169.fis.agh.edu.pl (149.156.109.169)
+Nmap scan report for stud170.fis.agh.edu.pl (149.156.109.170)
+Nmap scan report for stud171.fis.agh.edu.pl (149.156.109.171)
+Nmap scan report for stud172.fis.agh.edu.pl (149.156.109.172)
+Nmap scan report for 149.156.109.173
+Nmap scan report for 149.156.109.174
+Nmap scan report for 149.156.109.175
+Nmap scan report for 149.156.109.176
+Nmap scan report for 149.156.109.177
+Nmap scan report for 149.156.109.178
+Nmap scan report for 149.156.109.179
+Nmap scan report for 149.156.109.180
+Nmap scan report for 149.156.109.181
+Nmap scan report for 149.156.109.182
+Nmap scan report for 149.156.109.183
+Nmap scan report for 149.156.109.184
+Nmap scan report for 149.156.109.185
+Nmap scan report for 149.156.109.186
+Nmap scan report for 149.156.109.187
+Nmap scan report for 149.156.109.188
+Nmap scan report for 149.156.109.189
+Nmap scan report for 149.156.109.190
+Nmap scan report for 149.156.109.191
+Nmap scan report for 149.156.109.192
+Nmap scan report for 149.156.109.193
+Nmap scan report for 149.156.109.194
+Nmap scan report for 149.156.109.195
+Nmap scan report for 149.156.109.196
+Nmap scan report for 149.156.109.197
+Nmap scan report for 149.156.109.198
+Nmap scan report for 149.156.109.199
+Nmap scan report for 149.156.109.200
+Nmap scan report for stud201.fis.agh.edu.pl (149.156.109.201)
+Nmap scan report for stud202.fis.agh.edu.pl (149.156.109.202)
+Nmap scan report for stud203.fis.agh.edu.pl (149.156.109.203)
+Nmap scan report for stud204.fis.agh.edu.pl (149.156.109.204)
+Nmap scan report for stud205.fis.agh.edu.pl (149.156.109.205)
+Nmap scan report for stud206.fis.agh.edu.pl (149.156.109.206)
+Nmap scan report for stud207.fis.agh.edu.pl (149.156.109.207)
+Nmap scan report for stud208.fis.agh.edu.pl (149.156.109.208)
+Nmap scan report for stud209.fis.agh.edu.pl (149.156.109.209)
+Nmap scan report for stud210.fis.agh.edu.pl (149.156.109.210)
+Nmap scan report for stud211.fis.agh.edu.pl (149.156.109.211)
+Nmap scan report for stud212.fis.agh.edu.pl (149.156.109.212)
+Nmap scan report for stud213.fis.agh.edu.pl (149.156.109.213)
+Nmap scan report for stud214.fis.agh.edu.pl (149.156.109.214)
+Nmap scan report for stud215.fis.agh.edu.pl (149.156.109.215)
+Nmap scan report for stud216.fis.agh.edu.pl (149.156.109.216)
+Nmap scan report for 149.156.109.217
+Nmap scan report for 149.156.109.218
+Nmap scan report for 149.156.109.219
+Nmap scan report for 149.156.109.220
+Nmap scan report for stud221.fis.agh.edu.pl (149.156.109.221)
+Nmap scan report for stud222.fis.agh.edu.pl (149.156.109.222)
+Nmap scan report for stud223.fis.agh.edu.pl (149.156.109.223)
+Nmap scan report for stud224.fis.agh.edu.pl (149.156.109.224)
+Nmap scan report for stud225.fis.agh.edu.pl (149.156.109.225)
+Nmap scan report for stud226.fis.agh.edu.pl (149.156.109.226)
+Nmap scan report for stud227.fis.agh.edu.pl (149.156.109.227)
+Nmap scan report for stud228.fis.agh.edu.pl (149.156.109.228)
+Nmap scan report for stud229.fis.agh.edu.pl (149.156.109.229)
+Nmap scan report for stud230.fis.agh.edu.pl (149.156.109.230)
+Nmap scan report for stud231.fis.agh.edu.pl (149.156.109.231)
+Nmap scan report for stud232.fis.agh.edu.pl (149.156.109.232)
+Nmap scan report for stud233.fis.agh.edu.pl (149.156.109.233)
+Nmap scan report for stud234.fis.agh.edu.pl (149.156.109.234)
+Nmap scan report for stud235.fis.agh.edu.pl (149.156.109.235)
+Nmap scan report for stud236.fis.agh.edu.pl (149.156.109.236)
+Nmap scan report for stud237.fis.agh.edu.pl (149.156.109.237)
+Nmap scan report for stud238.fis.agh.edu.pl (149.156.109.238)
+Nmap scan report for stud239.fis.agh.edu.pl (149.156.109.239)
+Nmap scan report for stud240.fis.agh.edu.pl (149.156.109.240)
+Nmap scan report for stud241.fis.agh.edu.pl (149.156.109.241)
+Nmap scan report for stud242.fis.agh.edu.pl (149.156.109.242)
+Nmap scan report for stud243.fis.agh.edu.pl (149.156.109.243)
+Nmap scan report for stud244.fis.agh.edu.pl (149.156.109.244)
+Nmap scan report for stud245.fis.agh.edu.pl (149.156.109.245)
+Nmap scan report for stud246.fis.agh.edu.pl (149.156.109.246)
+Nmap scan report for stud247.fis.agh.edu.pl (149.156.109.247)
+Nmap scan report for stud248.fis.agh.edu.pl (149.156.109.248)
+Nmap scan report for stud249.fis.agh.edu.pl (149.156.109.249)
+Nmap scan report for stud250.fis.agh.edu.pl (149.156.109.250)
+Nmap scan report for 149.156.109.251
+Nmap scan report for zenworks.fis.agh.edu.pl (149.156.109.252)
+Nmap scan report for hp2100-2.ftj.agh.edu.pl (149.156.109.253)
+Nmap scan report for xorp-109.ftj.agh.edu.pl (149.156.109.254)
+Nmap scan report for 149.156.109.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 5.51 seconds

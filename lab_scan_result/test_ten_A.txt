@@ -1,0 +1,408 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 10:31 CEST
+Nmap scan report for krywan.metal.agh.edu.pl (149.156.112.6)
+Host is up (0.00043s latency).
+Not shown: 979 filtered ports
+PORT      STATE SERVICE         VERSION
+53/tcp    open  domain          Microsoft DNS
+80/tcp    open  http            Microsoft IIS httpd 8.5
+| http-methods: Potentially risky methods: TRACE
+|_See http://nmap.org/nsedoc/scripts/http-methods.html
+|_http-title: IIS Windows Server
+88/tcp    open  kerberos-sec    Windows 2003 Kerberos (server time: 2022-10-27 08:40:14Z)
+135/tcp   open  msrpc           Microsoft Windows RPC
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  netbios-ssn
+464/tcp   open  kpasswd5?
+593/tcp   open  ncacn_http      Microsoft Windows RPC over HTTP 1.0
+636/tcp   open  tcpwrapped
+2179/tcp  open  vmrdp?
+3052/tcp  open  http            Jetty 9.1.3.v20140225
+|_http-methods: No Allow or Public header in OPTIONS response (status code 403)
+|_http-title: Did not follow redirect to https://192.168.102.1:6547
+3268/tcp  open  ldap
+3269/tcp  open  tcpwrapped
+3389/tcp  open  ms-wbt-server?
+6547/tcp  open  powerchuteplus?
+49154/tcp open  msrpc           Microsoft Windows RPC
+49155/tcp open  msrpc           Microsoft Windows RPC
+49157/tcp open  ncacn_http      Microsoft Windows RPC over HTTP 1.0
+49158/tcp open  msrpc           Microsoft Windows RPC
+49159/tcp open  msrpc           Microsoft Windows RPC
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running (JUST GUESSING): Microsoft Windows 7|Phone|Vista|2008 (87%)
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1
+Aggressive OS guesses: Microsoft Windows 7 Professional (87%), Microsoft Windows Phone 7.5 (86%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (86%), Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008 (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_nbstat: NetBIOS name: KRYWAN, NetBIOS user: <unknown>, NetBIOS MAC: 44:a8:42:2b:40:8c (unknown)
+| smb-os-discovery: 
+|   OS: Windows Server 2012 R2 Datacenter 9600 (Windows Server 2012 R2 Datacenter 6.3)
+|   OS CPE: cpe:/o:microsoft:windows_server_2012::-
+|   Computer name: krywan
+|   NetBIOS computer name: KRYWAN
+|   Domain name: lab.metal.agh.edu.pl
+|   Forest name: lab.metal.agh.edu.pl
+|   FQDN: krywan.lab.metal.agh.edu.pl
+|   NetBIOS domain name: METAL
+|_  System time: 2022-10-27T10:42:02+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing required
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 445/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.52 ms krywan.metal.agh.edu.pl (149.156.112.6)
+
+Nmap scan report for umbreon.metal.agh.edu.pl (149.156.112.13)
+Host is up (0.00051s latency).
+Not shown: 987 closed ports
+PORT      STATE SERVICE     VERSION
+21/tcp    open  ftp         ProFTPD
+| ssl-cert: Subject: commonName=XN-Series NAS/organizationName=Qsan Technology, Inc./stateOrProvinceName=Taiwan/countryName=TW
+| Not valid before: 2020-02-14T04:14:17+00:00
+|_Not valid after:  2040-02-09T04:14:17+00:00
+|_ssl-date: 2015-03-16T10:00:27+00:00; -7y224d22h40m57s from local time.
+22/tcp    open  sftp        ProFTPD mod_sftp 0.9.9
+80/tcp    open  http        lighttpd 1.4.41
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to http://umbreon.metal.agh.edu.pl:13080/
+111/tcp   open  rpcbind     2-4 (RPC #100000)
+| rpcinfo: 
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100003  3,4         2049/tcp  nfs
+|   100003  3,4         2049/udp  nfs
+|   100005  1,2,3        892/tcp  mountd
+|   100005  1,2,3        892/udp  mountd
+|   100021  1,3,4      33264/tcp  nlockmgr
+|   100021  1,3,4      33264/udp  nlockmgr
+|   100024  1            662/tcp  status
+|   100024  1            662/udp  status
+|   100227  3           2049/tcp  nfs_acl
+|_  100227  3           2049/udp  nfs_acl
+139/tcp   open  netbios-ssn Samba smbd 3.X (workgroup: UMBREON)
+427/tcp   open  svrloc?
+443/tcp   open  ssl/http    lighttpd 1.4.41
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://umbreon.metal.agh.edu.pl:13443/
+| ssl-cert: Subject: commonName=XN-Series NAS/organizationName=Qsan Technology, Inc./stateOrProvinceName=Taiwan/countryName=TW
+| Not valid before: 2020-02-14T04:14:17+00:00
+|_Not valid after:  2040-02-09T04:14:17+00:00
+445/tcp   open  netbios-ssn Samba smbd 3.X (workgroup: UMBREON)
+548/tcp   open  afp?
+| afp-serverinfo: 
+|   | Server Flags: 0x8f79
+|   |   Super Client: Yes
+|   |   UUIDs: Yes
+|   |   UTF8 Server Name: Yes
+|   |   Open Directory: Yes
+|   |   Reconnect: No
+|   |   Server Notifications: Yes
+|   |   TCP/IP: Yes
+|   |   Server Signature: Yes
+|   |   ServerMessages: Yes
+|   |   Password Saving Prohibited: No
+|   |   Password Changing: No
+|   |_  Copy File: Yes
+|   Server Name: umbreon
+|   Machine Type: Netatalk3.1.12
+|   AFP Versions: AFP2.2, AFPX03, AFP3.1, AFP3.2, AFP3.3, AFP3.4
+|   UAMs: DHX2, DHCAST128
+|   Server Signature: be75ed655615c1874232cb19c33d182f
+|   Network Address 1: 169.254.1.234
+|_  UTF8 Server Name: umbreon
+873/tcp   open  rsync       (protocol version 31)
+2049/tcp  open  nfs         3-4 (RPC #100003)
+| rpcinfo: 
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100003  3,4         2049/tcp  nfs
+|   100003  3,4         2049/udp  nfs
+|   100005  1,2,3        892/tcp  mountd
+|   100005  1,2,3        892/udp  mountd
+|   100021  1,3,4      33264/tcp  nlockmgr
+|   100021  1,3,4      33264/udp  nlockmgr
+|   100024  1            662/tcp  status
+|   100024  1            662/udp  status
+|   100227  3           2049/tcp  nfs_acl
+|_  100227  3           2049/udp  nfs_acl
+2222/tcp  open  ssh         Dropbear sshd 2017.75 (protocol 2.0)
+50000/tcp open  http        Apache httpd 2.4.41 ((Unix) OpenSSL/1.1.1d PHP/5.6.31)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 403)
+|_http-title: 403 Forbidden
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port548-TCP:V=6.40%I=7%D=10/27%Time=635A43DD%P=x86_64-redhat-linux-gnu%
+SF:r(afp,195,"\x01\x03\0\x01\0\0\0\0\0\0\x01\x85\0\0\0\0\0\x1a\0\)\0T\0d\x
+SF:8fy\x07umbreon\x01d\x01t\x01{\x01\|\x0eNetatalk3\.1\.12\x06\x06AFP2\.2\
+SF:x06AFPX03\x06AFP3\.1\x06AFP3\.2\x06AFP3\.3\x06AFP3\.4\x02\x04DHX2\tDHCA
+SF:ST128\0\0\0\0\0\x80\x02\0\x01\x80\x03\0\x02\x80\x02\x80\x02\x80\x02\x80
+SF:\x04\x80\x02@\x04\x87\xc2@\x04X4@\x04\x20\x08@\x02\x16\xd0\x80\x01\x01\
+SF:x01\0\x02\x80\x02\x80\x02\x9cr\x80\x04\"\x88@\x04A\x04@\x04A\x04@\x04A\
+SF:x04@\x04I\$@\x0eUT\xe0\x10\]t\x10\x10>\xf8\x10\x7f\xfc\x7f\xfe\x20\x04@
+SF:\x04\x1f\xfc\x7f\xf8\0\x07\xc0\0\0\x04@\0\0\x03\x80\0\0\x04@\0\xaf\xf9\
+SF:?\xf5\0\x02\x80\0\xaf\xfc\x7f\xf5\0\0\0\0\0\0\0\0\0\x80\x02\0\x01\x80\x
+SF:03\0\x03\x80\x03\x80\x03\x80\x03\x80\x07\x80\x03\xc0\x07\x87\xc3\xc0\x0
+SF:7\xdf\xf7\xc0\x07\xff\xff\xc0\x03\xff\xff\x80\x01\xff\xff\0\x03\xff\xff
+SF:\x80\x03\xff\xff\x80\x07\xff\xff\xc0\x07\xff\xff\xc0\x07\xff\xff\xc0\x0
+SF:7\xff\xff\xc0\x07\xff\xff\xc0\x0f\xff\xff\xe0\x1f\xff\xff\xf0\x1f\xff\x
+SF:ff\xf0\x7f\xff\xff\xfe\?\xff\xff\xfc\x1f\xff\xff\xf8\0\x07\xc0\0\0\x07\
+SF:xc0\0\0\x03\x80\0\0\x04@\0\xaf\xf9\?\xf5\0\x02\x80\0\xaf\xfc\x7f\xf5\0\
+SF:0\0\0\xbeu\xedeV\x15\xc1\x87B2\xcb\x19\xc3=\x18/\x01\x06\x01\xa9\xfe\x0
+SF:1\xea\0\0\x07umbreon");
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/27%OT=21%CT=1%CU=40143%PV=N%DS=3%DC=T%G=Y%TM=635A44
+OS:85%P=x86_64-redhat-linux-gnu)SEQ(SP=107%GCD=1%ISR=10B%TI=Z%TS=8)OPS(O1=M
+OS:5B4ST11NW6%O2=M5B4ST11NW6%O3=M5B4NNT11NW6%O4=M5B4ST11NW6%O5=M5B4ST11NW6%
+OS:O6=M5B4ST11)WIN(W1=7120%W2=7120%W3=7120%W4=7120%W5=7120%W6=7120)ECN(R=Y%
+OS:DF=Y%T=41%W=7210%O=M5B4NNSNW6%CC=Y%Q=)T1(R=Y%DF=Y%T=41%S=O%A=S+%F=AS%RD=
+OS:0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)
+OS:T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=7E
+OS:B%RUD=G)IE(R=Y%DFI=N%T=41%CD=S)
+
+Network Distance: 3 hops
+Service Info: Host: Welcome; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+|_nbstat: NetBIOS name: UMBREON, NetBIOS user: <unknown>, NetBIOS MAC: <unknown>
+| smb-os-discovery: 
+|   OS: Windows 6.1 (Samba 4.10.7)
+|   Computer name: umbreon
+|   NetBIOS computer name: UMBREON
+|   Domain name: 
+|   FQDN: umbreon
+|_  System time: 2022-10-27T10:41:47+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT     ADDRESS
+1   0.27 ms 192.168.102.1
+2   ...
+3   0.54 ms umbreon.metal.agh.edu.pl (149.156.112.13)
+
+Nmap scan report for metal.metal.agh.edu.pl (149.156.112.15)
+Host is up (0.00054s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     (protocol 2.0)
+|_ssh-hostkey: ERROR: Script execution failed (use -d to debug)
+80/tcp  open  http    nginx 1.19.2
+|_http-methods: No Allow or Public header in OPTIONS response (status code 301)
+|_http-title: Did not follow redirect to https://metal.metal.agh.edu.pl/
+443/tcp open  http    nginx
+|_http-methods: No Allow or Public header in OPTIONS response (status code 400)
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+| ssl-cert: Subject: commonName=www.metal.agh.edu.pl
+| Not valid before: 2022-10-06T12:48:28+00:00
+|_Not valid after:  2023-01-04T13:48:27+00:00
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=6.40%I=7%D=10/27%Time=635A43D8%P=x86_64-redhat-linux-gnu%r
+SF:(NULL,29,"SSH-2\.0-OpenSSH_8\.2p1\x20Ubuntu-4ubuntu0\.5\r\n");
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/27%OT=22%CT=1%CU=30459%PV=N%DS=3%DC=T%G=Y%TM=635A44
+OS:85%P=x86_64-redhat-linux-gnu)SEQ(SP=104%GCD=1%ISR=104%TI=Z%TS=A)OPS(O1=M
+OS:5B4ST11NW7%O2=M5B4ST11NW7%O3=M5B4NNT11NW7%O4=M5B4ST11NW7%O5=M5B4ST11NW7%
+OS:O6=M5B4ST11)WIN(W1=FE88%W2=FE88%W3=FE88%W4=FE88%W5=FE88%W6=FE88)ECN(R=Y%
+OS:DF=Y%T=41%W=FAF0%O=M5B4NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=41%S=O%A=S+%F=AS%RD=
+OS:0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=41%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)
+OS:T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=2D
+OS:BD%RUD=G)IE(R=Y%DFI=N%T=41%CD=S)
+
+Network Distance: 3 hops
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.70 ms metal.metal.agh.edu.pl (149.156.112.15)
+
+Nmap scan report for ipguru.metal.agh.edu.pl (149.156.112.18)
+Host is up (0.00070s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Apache httpd 2.4.53 ((Unix))
+|_http-title: Site doesn't have a title (text/html).
+445/tcp  open  microsoft-ds?
+3306/tcp open  mysql         MySQL (unauthorized)
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/27%OT=80%CT=1%CU=42989%PV=N%DS=3%DC=T%G=Y%TM=635A44
+OS:85%P=x86_64-redhat-linux-gnu)SEQ(SP=101%GCD=1%ISR=109%TI=Z%TS=21)OPS(O1=
+OS:M5B4NW6NNT11SLL%O2=M5B4NW6NNT11SLL%O3=M5B4NW6NNT11%O4=M5B4NW6NNT11SLL%O5
+OS:=M5B4NW6NNT11SLL%O6=M5B4NNT11SLL)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=
+OS:FFFF%W6=FFFF)ECN(R=Y%DF=Y%T=41%W=FFFF%O=M5B4NW6SLL%CC=Y%Q=)T1(R=Y%DF=Y%T
+OS:=41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=N%T=41%W=0%S=Z%
+OS:A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=41%IPL=38%UN=0%RIPL=G%R
+OS:ID=G%RIPCK=G%RUCK=DDE%RUD=G)IE(R=Y%DFI=S%T=41%CD=S)
+
+Network Distance: 3 hops
+
+Host script results:
+|_nbstat: NetBIOS name: IPGURU, NetBIOS user: <unknown>, NetBIOS MAC: 00:3e:e1:c8:6c:fb (Apple)
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.59 ms ipguru.metal.agh.edu.pl (149.156.112.18)
+
+Nmap scan report for 149.156.112.27
+Host is up (0.00071s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 5.1p1 Debian 5 (protocol 2.0)
+| ssh-hostkey: 1024 b2:a4:0a:ab:ed:51:8d:33:db:b9:49:da:c3:13:2f:7f (DSA)
+|_2048 1a:29:6d:28:ee:f2:22:bc:3e:ed:5b:fa:10:b0:59:8d (RSA)
+445/tcp open  netbios-ssn Samba smbd 3.X (workgroup: WORKGROUP)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.15 - 2.6.26 (likely embedded)
+Network Distance: 3 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+| smb-os-discovery: 
+|   OS: Unix (Samba 3.6.6)
+|   NetBIOS computer name: 
+|   Workgroup: WORKGROUP
+|_  System time: 2022-10-27T10:41:43+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: guest
+|   Share-level authentication (dangerous)
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server doesn't support SMBv2 protocol
+
+TRACEROUTE (using port 445/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.80 ms 149.156.112.27
+
+Nmap scan report for willow.metal.agh.edu.pl (149.156.112.42)
+Host is up (0.00061s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE     VERSION
+135/tcp open  msrpc       Microsoft Windows RPC
+139/tcp open  netbios-ssn
+445/tcp open  netbios-ssn
+No exact OS matches for host (If you know what OS is running on it, see http://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=6.40%E=4%D=10/27%OT=135%CT=1%CU=43489%PV=N%DS=3%DC=T%G=Y%TM=635A4
+OS:485%P=x86_64-redhat-linux-gnu)SEQ(SP=105%GCD=1%ISR=10C%TI=I%TS=U)OPS(O1=
+OS:M5B4NW8NNS%O2=M5B4NW8NNS%O3=M5B4NW8%O4=M5B4NW8NNS%O5=M5B4NW8NNS%O6=M5B4N
+OS:NS)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FF70)ECN(R=Y%DF=Y%T=81
+OS:%W=FFFF%O=M5B4NW8NNS%CC=N%Q=)T1(R=Y%DF=Y%T=81%S=O%A=S+%F=AS%RD=0%Q=)T2(R
+OS:=N)T3(R=N)T4(R=N)T5(R=Y%DF=Y%T=81%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7
+OS:(R=N)U1(R=Y%DF=N%T=81%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=FABB%RUD=G)
+OS:IE(R=Y%DFI=N%T=81%CD=Z)
+
+Network Distance: 3 hops
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_nbstat: NetBIOS name: DESKTOP-7A9S1A9, NetBIOS user: <unknown>, NetBIOS MAC: 2c:56:dc:3d:09:1e (unknown)
+| smb-os-discovery: 
+|   OS: Windows 10 Education 19042 (Windows 10 Education 6.3)
+|   NetBIOS computer name: DESKTOP-7A9S1A9
+|   Workgroup: WORKGROUP
+|_  System time: 2022-10-27T10:41:36+02:00
+| smb-security-mode: 
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.58 ms willow.metal.agh.edu.pl (149.156.112.42)
+
+Nmap scan report for nemezis.metal.agh.edu.pl (149.156.112.44)
+Host is up (0.00061s latency).
+Not shown: 997 closed ports
+PORT    STATE    SERVICE      VERSION
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+445/tcp filtered microsoft-ds
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|WAP|broadband router|router
+Running (JUST GUESSING): Linux 2.6.X|3.X (97%), Microsoft Windows 7|2008|Vista (91%), Motorola embedded (89%), Acorp embedded (89%), Actiontec embedded (89%), AT&T embedded (89%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.18 cpe:/o:microsoft:windows_7::sp1 cpe:/o:microsoft:windows_server_2008::sp2 cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:linux:linux_kernel:3 cpe:/o:microsoft:windows_8 cpe:/h:motorola:rfs_6000 cpe:/h:actiontec:gt701
+Aggressive OS guesses: Linux 2.6.18 (97%), Linux 2.6.30 (97%), Linux 2.6.28 (95%), Microsoft Windows 7 SP1 (91%), Microsoft Windows 7 SP1 or Windows Server 2008 SP1 - SP2 (91%), Microsoft Windows Server 2008 R2 (91%), Microsoft Windows Server 2008 SP1 (91%), Microsoft Windows 7 (91%), Microsoft Windows 7 Professional (91%), Microsoft Windows Vista Home Premium SP1 (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   0.71 ms nemezis.metal.agh.edu.pl (149.156.112.44)
+
+Nmap scan report for enigma.metal.agh.edu.pl (149.156.112.46)
+Host is up (0.00063s latency).
+Not shown: 997 closed ports
+PORT    STATE    SERVICE      VERSION
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+445/tcp filtered microsoft-ds
+Too many fingerprints match this host to give specific OS details
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ... 30
+
+Nmap scan report for ziamol.metal.agh.edu.pl (149.156.112.51)
+Host is up (0.0035s latency).
+All 1000 scanned ports on ziamol.metal.agh.edu.pl (149.156.112.51) are filtered
+Too many fingerprints match this host to give specific OS details
+Network Distance: 3 hops
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   1.86 ms ziamol.metal.agh.edu.pl (149.156.112.51)
+
+Nmap scan report for koala.metal.agh.edu.pl (149.156.112.52)
+Host is up (0.083s latency).
+All 1000 scanned ports on koala.metal.agh.edu.pl (149.156.112.52) are closed
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.18
+OS details: Linux 2.6.18, Linux 2.6.30
+Network Distance: 3 hops
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 149.156.112.13
+2   ...
+3   365.92 ms koala.metal.agh.edu.pl (149.156.112.52)
+
+OS and Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 10 IP addresses (10 hosts up) scanned in 681.02 seconds

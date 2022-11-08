@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:05 CEST
+Nmap scan report for 149.156.115.0
+Nmap scan report for emi.wibro.agh.edu.pl (149.156.115.1)
+Nmap scan report for ultra.wibro.agh.edu.pl (149.156.115.2)
+Nmap scan report for pc3.wibro.agh.edu.pl (149.156.115.3)
+Nmap scan report for pc4.wibro.agh.edu.pl (149.156.115.4)
+Nmap scan report for pc5.wibro.agh.edu.pl (149.156.115.5)
+Nmap scan report for pc6.wibro.agh.edu.pl (149.156.115.6)
+Nmap scan report for pc7.wibro.agh.edu.pl (149.156.115.7)
+Nmap scan report for pc8.wibro.agh.edu.pl (149.156.115.8)
+Nmap scan report for pc9.wibro.agh.edu.pl (149.156.115.9)
+Nmap scan report for wwszolek.wibro.agh.edu.pl (149.156.115.10)
+Nmap scan report for twszolek.wibro.agh.edu.pl (149.156.115.11)
+Nmap scan report for tkam.wibro.agh.edu.pl (149.156.115.12)
+Nmap scan report for 149.156.115.13
+Nmap scan report for w-wiesiek.wibro.agh.edu.pl (149.156.115.14)
+Nmap scan report for merlin.wibro.agh.edu.pl (149.156.115.15)
+Nmap scan report for sauron.wibro.agh.edu.pl (149.156.115.16)
+Nmap scan report for babajaga.wibro.agh.edu.pl (149.156.115.17)
+Nmap scan report for zagajnik.wibro.agh.edu.pl (149.156.115.18)
+Nmap scan report for felis.wibro.agh.edu.pl (149.156.115.19)
+Nmap scan report for nela.wibro.agh.edu.pl (149.156.115.20)
+Nmap scan report for gandalf.wibro.agh.edu.pl (149.156.115.21)
+Nmap scan report for mogolan.wibro.agh.edu.pl (149.156.115.22)
+Nmap scan report for lysy.wibro.agh.edu.pl (149.156.115.23)
+Nmap scan report for sonata.wibro.agh.edu.pl (149.156.115.24)
+Nmap scan report for aga.wibro.agh.edu.pl (149.156.115.25)
+Nmap scan report for viking.wibro.agh.edu.pl (149.156.115.26)
+Nmap scan report for paivi.wibro.agh.edu.pl (149.156.115.27)
+Nmap scan report for hubert.wibro.agh.edu.pl (149.156.115.28)
+Nmap scan report for 149.156.115.29
+Nmap scan report for saruman.wibro.agh.edu.pl (149.156.115.30)
+Nmap scan report for borek.wibro.agh.edu.pl (149.156.115.31)
+Nmap scan report for dante.wibro.agh.edu.pl (149.156.115.32)
+Nmap scan report for frodo.wibro.agh.edu.pl (149.156.115.33)
+Nmap scan report for lhotse.wibro.agh.edu.pl (149.156.115.34)
+Nmap scan report for mik.wibro.agh.edu.pl (149.156.115.35)
+Nmap scan report for benek.wibro.agh.edu.pl (149.156.115.36)
+Nmap scan report for dante.wibro.agh.edu.pl (149.156.115.37)
+Nmap scan report for jpiotrow.wibro.agh.edu.pl (149.156.115.38)
+Nmap scan report for 149.156.115.39
+Nmap scan report for hermes.wibro.agh.edu.pl (149.156.115.40)
+Nmap scan report for fenix.wibro.agh.edu.pl (149.156.115.41)
+Nmap scan report for bahus.wibro.agh.edu.pl (149.156.115.42)
+Nmap scan report for 149.156.115.43
+Nmap scan report for 149.156.115.44
+Nmap scan report for 149.156.115.45
+Nmap scan report for legal.wibro.agh.edu.pl (149.156.115.46)
+Nmap scan report for kmiw-2.wibro.agh.edu.pl (149.156.115.47)
+Nmap scan report for legal2.wibro.agh.edu.pl (149.156.115.48)
+Nmap scan report for metalfor.metal.agh.edu.pl (149.156.115.49)
+Nmap scan report for ergo-lab.wibro.agh.edu.pl (149.156.115.50)
+Nmap scan report for kmiw-3.wibro.agh.edu.pl (149.156.115.51)
+Nmap scan report for rotunda.wibro.agh.edu.pl (149.156.115.52)
+Nmap scan report for jurek-p.wibro.agh.edu.pl (149.156.115.53)
+Nmap scan report for korbiel.wibro.agh.edu.pl (149.156.115.54)
+Nmap scan report for 149.156.115.55
+Nmap scan report for 149.156.115.56
+Nmap scan report for jadwigat.wibro.agh.edu.pl (149.156.115.57)
+Nmap scan report for zubek.wibro.agh.edu.pl (149.156.115.58)
+Nmap scan report for adamczyk.wibro.agh.edu.pl (149.156.115.59)
+Nmap scan report for lat-gw.wibro.agh.edu.pl (149.156.115.60)
+Nmap scan report for lab-1.wibro.agh.edu.pl (149.156.115.61)
+Nmap scan report for pkgrant1.wibro.agh.edu.pl (149.156.115.62)
+Nmap scan report for 149.156.115.63
+Nmap scan report for 149.156.115.64
+Nmap scan report for 149.156.115.65
+Nmap scan report for 149.156.115.66
+Nmap scan report for 149.156.115.67
+Nmap scan report for dominik.wibro.agh.edu.pl (149.156.115.68)
+Nmap scan report for 149.156.115.69
+Nmap scan report for pxi-8196.wibro.agh.edu.pl (149.156.115.70)
+Nmap scan report for 149.156.115.71
+Nmap scan report for soundplan.wibro.agh.edu.pl (149.156.115.72)
+Nmap scan report for 149.156.115.73
+Nmap scan report for 149.156.115.74
+Nmap scan report for 149.156.115.75
+Nmap scan report for 149.156.115.76
+Nmap scan report for killer.wibro.agh.edu.pl (149.156.115.77)
+Nmap scan report for 149.156.115.78
+Nmap scan report for 149.156.115.79
+Nmap scan report for 149.156.115.80
+Nmap scan report for 149.156.115.81
+Nmap scan report for 149.156.115.82
+Nmap scan report for 149.156.115.83
+Nmap scan report for 149.156.115.84
+Nmap scan report for linard.wibro.agh.edu.pl (149.156.115.85)
+Nmap scan report for 149.156.115.86
+Nmap scan report for 149.156.115.87
+Nmap scan report for 149.156.115.88
+Nmap scan report for 149.156.115.89
+Nmap scan report for 149.156.115.90
+Nmap scan report for 149.156.115.91
+Nmap scan report for 149.156.115.92
+Nmap scan report for 149.156.115.93
+Nmap scan report for 149.156.115.94
+Nmap scan report for 149.156.115.95
+Nmap scan report for 149.156.115.96
+Nmap scan report for 149.156.115.97
+Nmap scan report for 149.156.115.98
+Nmap scan report for 149.156.115.99
+Nmap scan report for 149.156.115.100
+Nmap scan report for 149.156.115.101
+Nmap scan report for 149.156.115.102
+Nmap scan report for 149.156.115.103
+Nmap scan report for 149.156.115.104
+Nmap scan report for 149.156.115.105
+Nmap scan report for 149.156.115.106
+Nmap scan report for 149.156.115.107
+Nmap scan report for 149.156.115.108
+Nmap scan report for 149.156.115.109
+Nmap scan report for wibro-110.imir.agh.edu.pl (149.156.115.110)
+Nmap scan report for wibro-111.imir.agh.edu.pl (149.156.115.111)
+Nmap scan report for wibro-112.imir.agh.edu.pl (149.156.115.112)
+Nmap scan report for wibro-113.imir.agh.edu.pl (149.156.115.113)
+Nmap scan report for wibro-114.imir.agh.edu.pl (149.156.115.114)
+Nmap scan report for wibro-115.imir.agh.edu.pl (149.156.115.115)
+Nmap scan report for wibro-116.imir.agh.edu.pl (149.156.115.116)
+Nmap scan report for wibro-117.imir.agh.edu.pl (149.156.115.117)
+Nmap scan report for wibro-118.imir.agh.edu.pl (149.156.115.118)
+Nmap scan report for wibro-119.imir.agh.edu.pl (149.156.115.119)
+Nmap scan report for labRobot.wibro.agh.edu.pl (149.156.115.120)
+Nmap scan report for krimnorth.wibro.agh.edu.pl (149.156.115.121)
+Nmap scan report for krimsouth.wibro.agh.edu.pl (149.156.115.122)
+Nmap scan report for krimlab.wibro.agh.edu.pl (149.156.115.123)
+Nmap scan report for labRob4.wibro.agh.edu.pl (149.156.115.124)
+Nmap scan report for labRob5.wibro.agh.edu.pl (149.156.115.125)
+Nmap scan report for labRob6.wibro.agh.edu.pl (149.156.115.126)
+Nmap scan report for labRob7.wibro.agh.edu.pl (149.156.115.127)
+Nmap scan report for 149.156.115.128
+Nmap scan report for 149.156.115.129
+Nmap scan report for 149.156.115.130
+Nmap scan report for 149.156.115.131
+Nmap scan report for 149.156.115.132
+Nmap scan report for 149.156.115.133
+Nmap scan report for 149.156.115.134
+Nmap scan report for 149.156.115.135
+Nmap scan report for 149.156.115.136
+Nmap scan report for 149.156.115.137
+Nmap scan report for 149.156.115.138
+Nmap scan report for 149.156.115.139
+Nmap scan report for pegaz.wibro.agh.edu.pl (149.156.115.140)
+Nmap scan report for adamczyk.wibro.agh.edu.pl (149.156.115.141)
+Nmap scan report for piotr.wibro.agh.edu.pl (149.156.115.142)
+Nmap scan report for engel.wibro.agh.edu.pl (149.156.115.143)
+Nmap scan report for piechowi.wibro.agh.edu.pl (149.156.115.144)
+Nmap scan report for leszek.wibro.agh.edu.pl (149.156.115.145)
+Nmap scan report for aku-bio-rp.wibro.agh.edu.pl (149.156.115.146)
+Nmap scan report for opal.wibro.agh.edu.pl (149.156.115.147)
+Nmap scan report for olimp.wibro.agh.edu.pl (149.156.115.148)
+Nmap scan report for wykowska.wibro.agh.edu.pl (149.156.115.149)
+Nmap scan report for starccm.wibro.agh.edu.pl (149.156.115.150)
+Nmap scan report for wslusar.wibro.agh.edu.pl (149.156.115.151)
+Nmap scan report for acoustic.wibro.agh.edu.pl (149.156.115.152)
+Nmap scan report for 149.156.115.153
+Nmap scan report for zaljan.wibro.agh.edu.pl (149.156.115.154)
+Nmap scan report for hercules.wibro.agh.edu.pl (149.156.115.155)
+Nmap scan report for 149.156.115.156
+Nmap scan report for czubak.wibro.agh.edu.pl (149.156.115.157)
+Nmap scan report for iwaniec.wibro.agh.edu.pl (149.156.115.158)
+Nmap scan report for wa214.wibro.agh.edu.pl (149.156.115.159)
+Nmap scan report for batko.wibro.agh.edu.pl (149.156.115.160)
+Nmap scan report for wenus.wibro.agh.edu.pl (149.156.115.161)
+Nmap scan report for kmiw.wibro.agh.edu.pl (149.156.115.162)
+Nmap scan report for ergonom.wibro.agh.edu.pl (149.156.115.163)
+Nmap scan report for drusie.wibro.agh.edu.pl (149.156.115.164)
+Nmap scan report for 149.156.115.165
+Nmap scan report for 149.156.115.166
+Nmap scan report for pawelw.wibro.agh.edu.pl (149.156.115.167)
+Nmap scan report for hades.wibro.agh.edu.pl (149.156.115.168)
+Nmap scan report for cioch.wibro.agh.edu.pl (149.156.115.169)
+Nmap scan report for sikora.wibro.agh.edu.pl (149.156.115.170)
+Nmap scan report for t-w.wibro.agh.edu.pl (149.156.115.171)
+Nmap scan report for przewoz.wibro.agh.edu.pl (149.156.115.172)
+Nmap scan report for rec.wibro.agh.edu.pl (149.156.115.173)
+Nmap scan report for labodiag.wibro.agh.edu.pl (149.156.115.174)
+Nmap scan report for witek.wibro.agh.edu.pl (149.156.115.175)
+Nmap scan report for fraczek.wibro.agh.edu.pl (149.156.115.176)
+Nmap scan report for styx.wibro.agh.edu.pl (149.156.115.177)
+Nmap scan report for por-d1.wibro.agh.edu.pl (149.156.115.178)
+Nmap scan report for zam-sz.wibro.agh.edu.pl (149.156.115.179)
+Nmap scan report for rezon.wibro.agh.edu.pl (149.156.115.180)
+Nmap scan report for terra.wibro.agh.edu.pl (149.156.115.181)
+Nmap scan report for kosala.wibro.agh.edu.pl (149.156.115.182)
+Nmap scan report for 149.156.115.183
+Nmap scan report for iris.wibro.agh.edu.pl (149.156.115.184)
+Nmap scan report for fuego.wibro.agh.edu.pl (149.156.115.185)
+Nmap scan report for bemol.wibro.agh.edu.pl (149.156.115.186)
+Nmap scan report for MiLab1.wibro.agh.edu.pl (149.156.115.187)
+Nmap scan report for MiLab2.wibro.agh.edu.pl (149.156.115.188)
+Nmap scan report for MiLab3.wibro.agh.edu.pl (149.156.115.189)
+Nmap scan report for MiLab4.wibro.agh.edu.pl (149.156.115.190)
+Nmap scan report for MiLab5.wibro.agh.edu.pl (149.156.115.191)
+Nmap scan report for tad.wibro.agh.edu.pl (149.156.115.192)
+Nmap scan report for rob.wibro.agh.edu.pl (149.156.115.193)
+Nmap scan report for tad2.wibro.agh.edu.pl (149.156.115.194)
+Nmap scan report for hobbit.wibro.agh.edu.pl (149.156.115.195)
+Nmap scan report for copter.wibro.agh.edu.pl (149.156.115.196)
+Nmap scan report for aragorn.wibro.agh.edu.pl (149.156.115.197)
+Nmap scan report for dragon.wibro.agh.edu.pl (149.156.115.198)
+Nmap scan report for troll.wibro.agh.edu.pl (149.156.115.199)
+Nmap scan report for wibrolab.wibro.agh.edu.pl (149.156.115.200)
+Nmap scan report for aster.imir.agh.edu.pl (149.156.115.201)
+Nmap scan report for syriusz.imir.agh.edu.pl (149.156.115.202)
+Nmap scan report for cadworker.wibro.agh.edu.pl (149.156.115.203)
+Nmap scan report for zxspectrum.wibro.agh.edu.pl (149.156.115.204)
+Nmap scan report for misiek.wibro.agh.edu.pl (149.156.115.205)
+Nmap scan report for woli.wibro.agh.edu.pl (149.156.115.206)
+Nmap scan report for lmsdemo.wibro.agh.edu.pl (149.156.115.207)
+Nmap scan report for gnom.wibro.agh.edu.pl (149.156.115.208)
+Nmap scan report for mts.wibro.agh.edu.pl (149.156.115.209)
+Nmap scan report for drusieckrim.wibro.agh.edu.pl (149.156.115.210)
+Nmap scan report for 149.156.115.211
+Nmap scan report for joz.wibro.agh.edu.pl (149.156.115.212)
+Nmap scan report for sokol.wibro.agh.edu.pl (149.156.115.213)
+Nmap scan report for rubin.wibro.agh.edu.pl (149.156.115.214)
+Nmap scan report for szafir.wibro.agh.edu.pl (149.156.115.215)
+Nmap scan report for celeron.wibro.agh.edu.pl (149.156.115.216)
+Nmap scan report for toshiba.wibro.agh.edu.pl (149.156.115.217)
+Nmap scan report for mori.wibro.agh.edu.pl (149.156.115.218)
+Nmap scan report for zibi.wibro.agh.edu.pl (149.156.115.219)
+Nmap scan report for goblin.wibro.agh.edu.pl (149.156.115.220)
+Nmap scan report for memento.wibro.agh.edu.pl (149.156.115.221)
+Nmap scan report for bobble.wibro.agh.edu.pl (149.156.115.222)
+Nmap scan report for ghandi.wibro.agh.edu.pl (149.156.115.223)
+Nmap scan report for mario.wibro.agh.edu.pl (149.156.115.224)
+Nmap scan report for lapku.wibro.agh.edu.pl (149.156.115.225)
+Nmap scan report for labb1.wibro.agh.edu.pl (149.156.115.226)
+Nmap scan report for labb2.wibro.agh.edu.pl (149.156.115.227)
+Nmap scan report for jaga.wibro.agh.edu.pl (149.156.115.228)
+Nmap scan report for kuba.wibro.agh.edu.pl (149.156.115.229)
+Nmap scan report for altera.wibro.agh.edu.pl (149.156.115.230)
+Nmap scan report for pr-inf1.wibro.agh.edu.pl (149.156.115.231)
+Nmap scan report for pr-inf2.wibro.agh.edu.pl (149.156.115.232)
+Nmap scan report for pr-inf3.wibro.agh.edu.pl (149.156.115.233)
+Nmap scan report for pr-inf4.wibro.agh.edu.pl (149.156.115.234)
+Nmap scan report for pr-inf5.wibro.agh.edu.pl (149.156.115.235)
+Nmap scan report for pr-inf6.wibro.agh.edu.pl (149.156.115.236)
+Nmap scan report for pr-inf7.wibro.agh.edu.pl (149.156.115.237)
+Nmap scan report for pr-inf8.wibro.agh.edu.pl (149.156.115.238)
+Nmap scan report for urbanska.wibro.agh.edu.pl (149.156.115.239)
+Nmap scan report for 149.156.115.240
+Nmap scan report for 149.156.115.241
+Nmap scan report for 149.156.115.242
+Nmap scan report for 149.156.115.243
+Nmap scan report for lab-409-4.wibro.agh.edu.pl (149.156.115.244)
+Nmap scan report for mjg.wibro.agh.edu.pl (149.156.115.245)
+Nmap scan report for robot.wibro.agh.edu.pl (149.156.115.246)
+Nmap scan report for machina.wibro.agh.edu.pl (149.156.115.247)
+Nmap scan report for cad.wibro.agh.edu.pl (149.156.115.248)
+Nmap scan report for cam.wibro.agh.edu.pl (149.156.115.249)
+Nmap scan report for b1rtr.agh.edu.pl (149.156.115.250)
+Nmap scan report for 149.156.115.251
+Nmap scan report for d1c2950.agh.edu.pl (149.156.115.252)
+Nmap scan report for 149.156.115.253
+Nmap scan report for 149.156.115.254
+Nmap scan report for 149.156.115.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 5.51 seconds

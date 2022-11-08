@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:07 CEST
+Nmap scan report for 149.156.119.0
+Nmap scan report for 149.156.119.1
+Nmap scan report for 149.156.119.2
+Nmap scan report for 149.156.119.3
+Nmap scan report for 149.156.119.4
+Nmap scan report for ovpn.agh.edu.pl (149.156.119.5)
+Nmap scan report for 149.156.119.6
+Nmap scan report for 149.156.119.7
+Nmap scan report for 149.156.119.8
+Nmap scan report for 149.156.119.9
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.10)
+Nmap scan report for 149.156.119.11
+Nmap scan report for 149.156.119.12
+Nmap scan report for 149.156.119.13
+Nmap scan report for 149.156.119.14
+Nmap scan report for 149.156.119.15
+Nmap scan report for 149.156.119.16
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.17)
+Nmap scan report for ktrtr.agh.edu.pl (149.156.119.18)
+Nmap scan report for 149.156.119.19
+Nmap scan report for 149.156.119.20
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.21)
+Nmap scan report for 149.156.119.22
+Nmap scan report for 149.156.119.23
+Nmap scan report for 149.156.119.24
+Nmap scan report for 149.156.119.25
+Nmap scan report for 149.156.119.26
+Nmap scan report for 149.156.119.27
+Nmap scan report for 149.156.119.28
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.29)
+Nmap scan report for 149.156.119.30
+Nmap scan report for 149.156.119.31
+Nmap scan report for 149.156.119.32
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.33)
+Nmap scan report for emiter.radio17.agh.edu.pl (149.156.119.34)
+Nmap scan report for emisja.radio17.agh.edu.pl (149.156.119.35)
+Nmap scan report for 149.156.119.36
+Nmap scan report for 149.156.119.37
+Nmap scan report for 149.156.119.38
+Nmap scan report for 149.156.119.39
+Nmap scan report for stolowka1.adm.agh.edu.pl (149.156.119.40)
+Nmap scan report for fsia1.adm.agh.edu.pl (149.156.119.41)
+Nmap scan report for fsia2.adm.agh.edu.pl (149.156.119.42)
+Nmap scan report for fsia3.adm.agh.edu.pl (149.156.119.43)
+Nmap scan report for fsia4.adm.agh.edu.pl (149.156.119.44)
+Nmap scan report for 149.156.119.45
+Nmap scan report for 149.156.119.46
+Nmap scan report for 149.156.119.47
+Nmap scan report for 149.156.119.48
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.49)
+Nmap scan report for matrtr.agh.edu.pl (149.156.119.50)
+Nmap scan report for 149.156.119.51
+Nmap scan report for 149.156.119.52
+Nmap scan report for 149.156.119.53
+Nmap scan report for 149.156.119.54
+Nmap scan report for 149.156.119.55
+Nmap scan report for 149.156.119.56
+Nmap scan report for 149.156.119.57
+Nmap scan report for 149.156.119.58
+Nmap scan report for 149.156.119.59
+Nmap scan report for 149.156.119.60
+Nmap scan report for 149.156.119.61
+Nmap scan report for 149.156.119.62
+Nmap scan report for 149.156.119.63
+Nmap scan report for 149.156.119.64
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.65)
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.66)
+Nmap scan report for 149.156.119.67
+Nmap scan report for 149.156.119.68
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.69)
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.70)
+Nmap scan report for 149.156.119.71
+Nmap scan report for 149.156.119.72
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.73)
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.74)
+Nmap scan report for 149.156.119.75
+Nmap scan report for 149.156.119.76
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.77)
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.78)
+Nmap scan report for 149.156.119.79
+Nmap scan report for 149.156.119.80
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.81)
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.82)
+Nmap scan report for 149.156.119.83
+Nmap scan report for 149.156.119.84
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.85)
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.86)
+Nmap scan report for 149.156.119.87
+Nmap scan report for 149.156.119.88
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.89)
+Nmap scan report for b1rtr.agh.edu.pl (149.156.119.90)
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.91)
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.92)
+Nmap scan report for 149.156.119.93
+Nmap scan report for dmzvpn.agh.edu.pl (149.156.119.94)
+Nmap scan report for 149.156.119.95
+Nmap scan report for 149.156.119.96
+Nmap scan report for b6rtr.agh.edu.pl (149.156.119.97)
+Nmap scan report for krakus.adm.agh.edu.pl (149.156.119.98)
+Nmap scan report for stolowka2.adm.agh.edu.pl (149.156.119.99)
+Nmap scan report for 149.156.119.100
+Nmap scan report for 149.156.119.101
+Nmap scan report for 149.156.119.102
+Nmap scan report for 149.156.119.103
+Nmap scan report for 149.156.119.104
+Nmap scan report for 149.156.119.105
+Nmap scan report for 149.156.119.106
+Nmap scan report for 149.156.119.107
+Nmap scan report for 149.156.119.108
+Nmap scan report for 149.156.119.109
+Nmap scan report for 149.156.119.110
+Nmap scan report for 149.156.119.111
+Nmap scan report for 149.156.119.112
+Nmap scan report for 149.156.119.113
+Nmap scan report for 149.156.119.114
+Nmap scan report for 149.156.119.115
+Nmap scan report for 149.156.119.116
+Nmap scan report for 149.156.119.117
+Nmap scan report for 149.156.119.118
+Nmap scan report for 149.156.119.119
+Nmap scan report for 149.156.119.120
+Nmap scan report for 149.156.119.121
+Nmap scan report for 149.156.119.122
+Nmap scan report for 149.156.119.123
+Nmap scan report for 149.156.119.124
+Nmap scan report for 149.156.119.125
+Nmap scan report for 149.156.119.126
+Nmap scan report for 149.156.119.127
+Nmap scan report for 149.156.119.128
+Nmap scan report for ftjrtr.agh.edu.pl (149.156.119.129)
+Nmap scan report for deenes.cri.agh.edu.pl (149.156.119.130)
+Nmap scan report for ftjnas.cri.agh.edu.pl (149.156.119.131)
+Nmap scan report for 149.156.119.132
+Nmap scan report for 149.156.119.133
+Nmap scan report for 149.156.119.134
+Nmap scan report for 149.156.119.135
+Nmap scan report for 149.156.119.136
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.137)
+Nmap scan report for ica110-a0.agh.edu.pl (149.156.119.138)
+Nmap scan report for 149.156.119.139
+Nmap scan report for 149.156.119.140
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.141)
+Nmap scan report for konserwa.cri.agh.edu.pl (149.156.119.142)
+Nmap scan report for 149.156.119.143
+Nmap scan report for 149.156.119.144
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.145)
+Nmap scan report for rezerwacje.iet.agh.edu.pl (149.156.119.146)
+Nmap scan report for iet.agh.edu.pl (149.156.119.147)
+Nmap scan report for admiet.uci.agh.edu.pl (149.156.119.148)
+Nmap scan report for ldap.uci.agh.edu.pl (149.156.119.149)
+Nmap scan report for vm10.uci.agh.edu.pl (149.156.119.150)
+Nmap scan report for wpwww.wimiip.agh.edu.pl (149.156.119.151)
+Nmap scan report for 149.156.119.152
+Nmap scan report for 149.156.119.153
+Nmap scan report for raporty.dev.cop.agh.edu.pl (149.156.119.154)
+Nmap scan report for vm5.uci.agh.edu.pl (149.156.119.155)
+Nmap scan report for 149.156.119.156
+Nmap scan report for 149.156.119.157
+Nmap scan report for test.uci.agh.edu.pl (149.156.119.158)
+Nmap scan report for 149.156.119.159
+Nmap scan report for 149.156.119.160
+Nmap scan report for sknos.agh.edu.pl (149.156.119.161)
+Nmap scan report for ctt-crm.adm.agh.edu.pl (149.156.119.162)
+Nmap scan report for 149.156.119.163
+Nmap scan report for 149.156.119.164
+Nmap scan report for babel.cel.agh.edu.pl (149.156.119.165)
+Nmap scan report for oen.agh.edu.pl (149.156.119.166)
+Nmap scan report for fundacjams2.agh.edu.pl (149.156.119.167)
+Nmap scan report for www.ubezpieczenia.agh.edu.pl (149.156.119.168)
+Nmap scan report for 149.156.119.169
+Nmap scan report for 149.156.119.170
+Nmap scan report for 149.156.119.171
+Nmap scan report for 149.156.119.172
+Nmap scan report for skarpeta.best.agh.edu.pl (149.156.119.173)
+Nmap scan report for 149.156.119.174
+Nmap scan report for dbc1.cel.agh.edu.pl (149.156.119.175)
+Nmap scan report for milo.cel.agh.edu.pl (149.156.119.176)
+Nmap scan report for egzaminy.cel.agh.edu.pl (149.156.119.177)
+Nmap scan report for dbc2.cel.agh.edu.pl (149.156.119.178)
+Nmap scan report for testowy.cel.agh.edu.pl (149.156.119.179)
+Nmap scan report for epodreczniki.cel.agh.edu.pl (149.156.119.180)
+Nmap scan report for 149.156.119.181
+Nmap scan report for 149.156.119.182
+Nmap scan report for dbc3.cel.agh.edu.pl (149.156.119.183)
+Nmap scan report for korzycki.ki.agh.edu.pl (149.156.119.184)
+Nmap scan report for 149.156.119.185
+Nmap scan report for 149.156.119.186
+Nmap scan report for kola.agh.edu.pl (149.156.119.187)
+Nmap scan report for di.adm.agh.edu.pl (149.156.119.188)
+Nmap scan report for 149.156.119.189
+Nmap scan report for ucirtr.agh.edu.pl (149.156.119.190)
+Nmap scan report for 149.156.119.191
+Nmap scan report for 149.156.119.192
+Nmap scan report for haproxy.cel.agh.edu.pl (149.156.119.193)
+Nmap scan report for nat.cel.agh.edu.pl (149.156.119.194)
+Nmap scan report for 149.156.119.195
+Nmap scan report for db2.cel.agh.edu.pl (149.156.119.196)
+Nmap scan report for cc.cel.agh.edu.pl (149.156.119.197)
+Nmap scan report for shamrock.cel.agh.edu.pl (149.156.119.198)
+Nmap scan report for upel.cel.agh.edu.pl (149.156.119.199)
+Nmap scan report for cuba.cel.agh.edu.pl (149.156.119.200)
+Nmap scan report for greebo.cel.agh.edu.pl (149.156.119.201)
+Nmap scan report for upeldb.cel.agh.edu.pl (149.156.119.202)
+Nmap scan report for archive2.cel.agh.edu.pl (149.156.119.203)
+Nmap scan report for 149.156.119.204
+Nmap scan report for om.cel.agh.edu.pl (149.156.119.205)
+Nmap scan report for db3.cel.agh.edu.pl (149.156.119.206)
+Nmap scan report for dev2.cel.agh.edu.pl (149.156.119.207)
+Nmap scan report for dev-um.cel.agh.edu.pl (149.156.119.208)
+Nmap scan report for integra-01-open.cel.agh.edu.pl (149.156.119.209)
+Nmap scan report for ci.cel.agh.edu.pl (149.156.119.210)
+Nmap scan report for dev3.cel.agh.edu.pl (149.156.119.211)
+Nmap scan report for dev-build.cel.agh.edu.pl (149.156.119.212)
+Nmap scan report for docker.cel.agh.edu.pl (149.156.119.213)
+Nmap scan report for 149.156.119.214
+Nmap scan report for 149.156.119.215
+Nmap scan report for 149.156.119.216
+Nmap scan report for 149.156.119.217
+Nmap scan report for convert.cel.agh.edu.pl (149.156.119.218)
+Nmap scan report for ww1.cel.agh.edu.pl (149.156.119.219)
+Nmap scan report for dbexam.cel.agh.edu.pl (149.156.119.220)
+Nmap scan report for vpl-jail-01.cel.agh.edu.pl (149.156.119.221)
+Nmap scan report for 149.156.119.222
+Nmap scan report for 149.156.119.223
+Nmap scan report for 149.156.119.224
+Nmap scan report for 149.156.119.225
+Nmap scan report for 149.156.119.226
+Nmap scan report for 149.156.119.227
+Nmap scan report for 149.156.119.228
+Nmap scan report for 149.156.119.229
+Nmap scan report for 149.156.119.230
+Nmap scan report for 149.156.119.231
+Nmap scan report for 149.156.119.232
+Nmap scan report for 149.156.119.233
+Nmap scan report for 149.156.119.234
+Nmap scan report for 149.156.119.235
+Nmap scan report for 149.156.119.236
+Nmap scan report for 149.156.119.237
+Nmap scan report for 149.156.119.238
+Nmap scan report for 149.156.119.239
+Nmap scan report for 149.156.119.240
+Nmap scan report for 149.156.119.241
+Nmap scan report for 149.156.119.242
+Nmap scan report for 149.156.119.243
+Nmap scan report for 149.156.119.244
+Nmap scan report for 149.156.119.245
+Nmap scan report for 149.156.119.246
+Nmap scan report for 149.156.119.247
+Nmap scan report for 149.156.119.248
+Nmap scan report for 149.156.119.249
+Nmap scan report for 149.156.119.250
+Nmap scan report for 149.156.119.251
+Nmap scan report for 149.156.119.252
+Nmap scan report for 149.156.119.253
+Nmap scan report for 149.156.119.254
+Nmap scan report for 149.156.119.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 11.01 seconds

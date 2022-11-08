@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:06 CEST
+Nmap scan report for 149.156.117.0
+Nmap scan report for Urban.gorn.agh.edu.pl (149.156.117.1)
+Nmap scan report for 149.156.117.2
+Nmap scan report for 149.156.117.3
+Nmap scan report for 149.156.117.4
+Nmap scan report for 149.156.117.5
+Nmap scan report for 149.156.117.6
+Nmap scan report for 149.156.117.7
+Nmap scan report for 149.156.117.8
+Nmap scan report for 149.156.117.9
+Nmap scan report for 149.156.117.10
+Nmap scan report for as.wgig.agh.edu.pl (149.156.117.11)
+Nmap scan report for 149.156.117.12
+Nmap scan report for 149.156.117.13
+Nmap scan report for 149.156.117.14
+Nmap scan report for 149.156.117.15
+Nmap scan report for 149.156.117.16
+Nmap scan report for AMX-PC.gorn.agh.edu.pl (149.156.117.17)
+Nmap scan report for amx-ap.gorn.agh.edu.pl (149.156.117.18)
+Nmap scan report for amx-ni3100.gorn.agh.edu.pl (149.156.117.19)
+Nmap scan report for AMX-Modero.gorn.agh.edu.pl (149.156.117.20)
+Nmap scan report for andrzejb.gorn.agh.edu.pl (149.156.117.21)
+Nmap scan report for naworyta.gorn.agh.edu.pl (149.156.117.22)
+Nmap scan report for julia.gorn.agh.edu.pl (149.156.117.23)
+Nmap scan report for 149.156.117.24
+Nmap scan report for 149.156.117.25
+Nmap scan report for 149.156.117.26
+Nmap scan report for 149.156.117.27
+Nmap scan report for 149.156.117.28
+Nmap scan report for 149.156.117.29
+Nmap scan report for turnas.wgig.agh.edu.pl (149.156.117.30)
+Nmap scan report for 149.156.117.31
+Nmap scan report for 149.156.117.32
+Nmap scan report for 149.156.117.33
+Nmap scan report for 149.156.117.34
+Nmap scan report for 149.156.117.35
+Nmap scan report for 149.156.117.36
+Nmap scan report for 149.156.117.37
+Nmap scan report for 149.156.117.38
+Nmap scan report for 149.156.117.39
+Nmap scan report for 149.156.117.40
+Nmap scan report for edi.gorn.agh.edu.pl (149.156.117.41)
+Nmap scan report for 149.156.117.42
+Nmap scan report for 149.156.117.43
+Nmap scan report for 149.156.117.44
+Nmap scan report for 149.156.117.45
+Nmap scan report for 149.156.117.46
+Nmap scan report for 149.156.117.47
+Nmap scan report for 149.156.117.48
+Nmap scan report for 149.156.117.49
+Nmap scan report for 149.156.117.50
+Nmap scan report for 149.156.117.51
+Nmap scan report for dalnia.gorn.agh.edu.pl (149.156.117.52)
+Nmap scan report for lochan1.gorn.agh.edu.pl (149.156.117.53)
+Nmap scan report for lochan2.gorn.agh.edu.pl (149.156.117.54)
+Nmap scan report for kpm.gorn.agh.edu.pl (149.156.117.55)
+Nmap scan report for mziemian.gorn.agh.edu.pl (149.156.117.56)
+Nmap scan report for skrzypko.gorn.agh.edu.pl (149.156.117.57)
+Nmap scan report for 149.156.117.58
+Nmap scan report for 149.156.117.59
+Nmap scan report for 149.156.117.60
+Nmap scan report for winzer.gorn.agh.edu.pl (149.156.117.61)
+Nmap scan report for cala1.gorn.agh.edu.pl (149.156.117.62)
+Nmap scan report for 149.156.117.63
+Nmap scan report for stasica.gorn.agh.edu.pl (149.156.117.64)
+Nmap scan report for machniak.gorn.agh.edu.pl (149.156.117.65)
+Nmap scan report for kudlacik.gorn.agh.edu.pl (149.156.117.66)
+Nmap scan report for herezy.gorn.agh.edu.pl (149.156.117.67)
+Nmap scan report for 149.156.117.68
+Nmap scan report for 149.156.117.69
+Nmap scan report for 149.156.117.70
+Nmap scan report for kgps.gorn.agh.edu.pl (149.156.117.71)
+Nmap scan report for 149.156.117.72
+Nmap scan report for 149.156.117.73
+Nmap scan report for nowaksen.gorn.agh.edu.pl (149.156.117.74)
+Nmap scan report for 149.156.117.75
+Nmap scan report for 149.156.117.76
+Nmap scan report for soltys.gorn.agh.edu.pl (149.156.117.77)
+Nmap scan report for tomaszew.gorn.agh.edu.pl (149.156.117.78)
+Nmap scan report for natanek.gorn.agh.edu.pl (149.156.117.79)
+Nmap scan report for rekrut-1.gorn.agh.edu.pl (149.156.117.80)
+Nmap scan report for rekrut-2.gorn.agh.edu.pl (149.156.117.81)
+Nmap scan report for rekrut-3.gorn.agh.edu.pl (149.156.117.82)
+Nmap scan report for rekrut-4.gorn.agh.edu.pl (149.156.117.83)
+Nmap scan report for rekrut-5.gorn.agh.edu.pl (149.156.117.84)
+Nmap scan report for rekrut-6.gorn.agh.edu.pl (149.156.117.85)
+Nmap scan report for rekrut-7.gorn.agh.edu.pl (149.156.117.86)
+Nmap scan report for rekrut-8.gorn.agh.edu.pl (149.156.117.87)
+Nmap scan report for rekrut-9.gorn.agh.edu.pl (149.156.117.88)
+Nmap scan report for rekrut-10.gorn.agh.edu.pl (149.156.117.89)
+Nmap scan report for 149.156.117.90
+Nmap scan report for 149.156.117.91
+Nmap scan report for rydlew.gorn.agh.edu.pl (149.156.117.92)
+Nmap scan report for fiona.gorn.agh.edu.pl (149.156.117.93)
+Nmap scan report for wocy.gorn.agh.edu.pl (149.156.117.94)
+Nmap scan report for marpers.gorn.agh.edu.pl (149.156.117.95)
+Nmap scan report for piechota.gorn.agh.edu.pl (149.156.117.96)
+Nmap scan report for naworyta.gorn.agh.edu.pl (149.156.117.97)
+Nmap scan report for oleksy.gorn.agh.edu.pl (149.156.117.98)
+Nmap scan report for sieradzki.gorn.agh.edu.pl (149.156.117.99)
+Nmap scan report for 149.156.117.100
+Nmap scan report for 149.156.117.101
+Nmap scan report for 149.156.117.102
+Nmap scan report for 149.156.117.103
+Nmap scan report for 149.156.117.104
+Nmap scan report for 149.156.117.105
+Nmap scan report for 149.156.117.106
+Nmap scan report for WiFi-01.wnaft.agh.edu.pl (149.156.117.107)
+Nmap scan report for WiFi-02.wnaft.agh.edu.pl (149.156.117.108)
+Nmap scan report for WiFi-03.wnaft.agh.edu.pl (149.156.117.109)
+Nmap scan report for SWITCH1.wnaft.agh.edu.pl (149.156.117.110)
+Nmap scan report for LIC-SRV-1.wnaft.agh.edu.pl (149.156.117.111)
+Nmap scan report for DKNEZ.wnaft.agh.edu.pl (149.156.117.112)
+Nmap scan report for LIC-SRV-2.wnaft.agh.edu.pl (149.156.117.113)
+Nmap scan report for 149.156.117.114
+Nmap scan report for 149.156.117.115
+Nmap scan report for LIC-SRV-3.wnaft.agh.edu.pl (149.156.117.116)
+Nmap scan report for 149.156.117.117
+Nmap scan report for 149.156.117.118
+Nmap scan report for 149.156.117.119
+Nmap scan report for 149.156.117.120
+Nmap scan report for 149.156.117.121
+Nmap scan report for switch2.wnaft.agh.edu.pl (149.156.117.122)
+Nmap scan report for 149.156.117.123
+Nmap scan report for 149.156.117.124
+Nmap scan report for 149.156.117.125
+Nmap scan report for 149.156.117.126
+Nmap scan report for lic-srv-5.wnaft.agh.edu.pl (149.156.117.127)
+Nmap scan report for drillpack.wnaft.agh.edu.pl (149.156.117.128)
+Nmap scan report for 3dpath.wnaft.agh.edu.pl (149.156.117.129)
+Nmap scan report for wnaft-file-01.wnaft.agh.edu.pl (149.156.117.130)
+Nmap scan report for aoliinyk-router.wnaft.agh.edu.pl (149.156.117.131)
+Nmap scan report for 149.156.117.132
+Nmap scan report for 149.156.117.133
+Nmap scan report for 149.156.117.134
+Nmap scan report for 149.156.117.135
+Nmap scan report for 149.156.117.136
+Nmap scan report for switch3.wnaft.agh.edu.pl (149.156.117.137)
+Nmap scan report for 149.156.117.138
+Nmap scan report for KLIMKOWSKI.wnaft.agh.edu.pl (149.156.117.139)
+Nmap scan report for rada-wg.gorn.agh.edu.pl (149.156.117.140)
+Nmap scan report for klobuk.gorn.agh.edu.pl (149.156.117.141)
+Nmap scan report for ares.gorn.agh.edu.pl (149.156.117.142)
+Nmap scan report for patola.gorn.agh.edu.pl (149.156.117.143)
+Nmap scan report for mazur.gorn.agh.edu.pl (149.156.117.144)
+Nmap scan report for stass10.gorn.agh.edu.pl (149.156.117.145)
+Nmap scan report for stass11.gorn.agh.edu.pl (149.156.117.146)
+Nmap scan report for stass12.gorn.agh.edu.pl (149.156.117.147)
+Nmap scan report for morawa.gorn.agh.edu.pl (149.156.117.148)
+Nmap scan report for roszkow.gorn.agh.edu.pl (149.156.117.149)
+Nmap scan report for neuron.gorn.agh.edu.pl (149.156.117.150)
+Nmap scan report for burtan.gorn.agh.edu.pl (149.156.117.151)
+Nmap scan report for pyra.gorn.agh.edu.pl (149.156.117.152)
+Nmap scan report for zorychta.gorn.agh.edu.pl (149.156.117.153)
+Nmap scan report for stopyra.gorn.agh.edu.pl (149.156.117.154)
+Nmap scan report for zdgpodz.gorn.agh.edu.pl (149.156.117.155)
+Nmap scan report for andrusik.gorn.agh.edu.pl (149.156.117.156)
+Nmap scan report for broda.gorn.agh.edu.pl (149.156.117.157)
+Nmap scan report for pirowski.gorn.agh.edu.pl (149.156.117.158)
+Nmap scan report for karp.gorn.agh.edu.pl (149.156.117.159)
+Nmap scan report for jacek.gorn.agh.edu.pl (149.156.117.160)
+Nmap scan report for stass1.gorn.agh.edu.pl (149.156.117.161)
+Nmap scan report for stass2.gorn.agh.edu.pl (149.156.117.162)
+Nmap scan report for stass3.gorn.agh.edu.pl (149.156.117.163)
+Nmap scan report for 149.156.117.164
+Nmap scan report for stass5.gorn.agh.edu.pl (149.156.117.165)
+Nmap scan report for stass6.gorn.agh.edu.pl (149.156.117.166)
+Nmap scan report for stass7.gorn.agh.edu.pl (149.156.117.167)
+Nmap scan report for stass8.gorn.agh.edu.pl (149.156.117.168)
+Nmap scan report for stass9.gorn.agh.edu.pl (149.156.117.169)
+Nmap scan report for rembie.gorn.agh.edu.pl (149.156.117.170)
+Nmap scan report for slizien.gorn.agh.edu.pl (149.156.117.171)
+Nmap scan report for walkor.gorn.agh.edu.pl (149.156.117.172)
+Nmap scan report for ala.gorn.agh.edu.pl (149.156.117.173)
+Nmap scan report for hebda.gorn.agh.edu.pl (149.156.117.174)
+Nmap scan report for koziol.gorn.agh.edu.pl (149.156.117.175)
+Nmap scan report for cieplin.gorn.agh.edu.pl (149.156.117.176)
+Nmap scan report for kulik.gorn.agh.edu.pl (149.156.117.177)
+Nmap scan report for dudzic.gorn.agh.edu.pl (149.156.117.178)
+Nmap scan report for nuta.gorn.agh.edu.pl (149.156.117.179)
+Nmap scan report for gorniczy.gorn.agh.edu.pl (149.156.117.180)
+Nmap scan report for dziurzyn.gorn.agh.edu.pl (149.156.117.181)
+Nmap scan report for wojcik.gorn.agh.edu.pl (149.156.117.182)
+Nmap scan report for orlik.gorn.agh.edu.pl (149.156.117.183)
+Nmap scan report for sura.gorn.agh.edu.pl (149.156.117.184)
+Nmap scan report for fiutow.gorn.agh.edu.pl (149.156.117.185)
+Nmap scan report for bartnik.gorn.agh.edu.pl (149.156.117.186)
+Nmap scan report for mariola.gorn.agh.edu.pl (149.156.117.187)
+Nmap scan report for krawczyk.gorn.agh.edu.pl (149.156.117.188)
+Nmap scan report for skowron.gorn.agh.edu.pl (149.156.117.189)
+Nmap scan report for marpers.gorn.agh.edu.pl (149.156.117.190)
+Nmap scan report for stefan.gorn.agh.edu.pl (149.156.117.191)
+Nmap scan report for bbiel.gorn.agh.edu.pl (149.156.117.192)
+Nmap scan report for 149.156.117.193
+Nmap scan report for 149.156.117.194
+Nmap scan report for 149.156.117.195
+Nmap scan report for 149.156.117.196
+Nmap scan report for 149.156.117.197
+Nmap scan report for 149.156.117.198
+Nmap scan report for WNAFT-SW-SRV-01.wnaft.agh.edu.pl (149.156.117.199)
+Nmap scan report for wnaft-0001-ilo.wnaft.agh.edu.pl (149.156.117.200)
+Nmap scan report for 149.156.117.201
+Nmap scan report for WNAFT-DC-01.ad.wnaft.agh.edu.pl (149.156.117.202)
+Nmap scan report for WNAFT-DC-02.ad.wnaft.agh.edu.pl (149.156.117.203)
+Nmap scan report for WNAFT-0001-E1.wnaft.agh.edu.pl (149.156.117.204)
+Nmap scan report for wnaft-0001-e2.wnaft.agh.edu.pl (149.156.117.205)
+Nmap scan report for WNAFT-0001-E3.wnaft.agh.edu.pl (149.156.117.206)
+Nmap scan report for wnaft-0001-e4.wnaft.agh.edu.pl (149.156.117.207)
+Nmap scan report for 149.156.117.208
+Nmap scan report for 149.156.117.209
+Nmap scan report for 149.156.117.210
+Nmap scan report for LIC-SRV-6.wnaft.agh.edu.pl (149.156.117.211)
+Nmap scan report for 149.156.117.212
+Nmap scan report for 149.156.117.213
+Nmap scan report for switch4.wnaft.agh.edu.pl (149.156.117.214)
+Nmap scan report for WNAFT-RPC.wnaft.agh.edu.pl (149.156.117.215)
+Nmap scan report for 149.156.117.216
+Nmap scan report for wnaft-sw-r-02.wnaft.agh.edu.pl (149.156.117.217)
+Nmap scan report for 149.156.117.218
+Nmap scan report for 149.156.117.219
+Nmap scan report for 149.156.117.220
+Nmap scan report for mlynarska.gorn.agh.edu.pl (149.156.117.221)
+Nmap scan report for chulist.gorn.agh.edu.pl (149.156.117.222)
+Nmap scan report for uno.gorn.agh.edu.pl (149.156.117.223)
+Nmap scan report for WNAFT-SW-R-01.wnaft.agh.edu.pl (149.156.117.224)
+Nmap scan report for 149.156.117.225
+Nmap scan report for switch5.wnaft.agh.edu.pl (149.156.117.226)
+Nmap scan report for 149.156.117.227
+Nmap scan report for 149.156.117.228
+Nmap scan report for 149.156.117.229
+Nmap scan report for 149.156.117.230
+Nmap scan report for 149.156.117.231
+Nmap scan report for 149.156.117.232
+Nmap scan report for 149.156.117.233
+Nmap scan report for 149.156.117.234
+Nmap scan report for 149.156.117.235
+Nmap scan report for 149.156.117.236
+Nmap scan report for 149.156.117.237
+Nmap scan report for 149.156.117.238
+Nmap scan report for 149.156.117.239
+Nmap scan report for 149.156.117.240
+Nmap scan report for 149.156.117.241
+Nmap scan report for 149.156.117.242
+Nmap scan report for 149.156.117.243
+Nmap scan report for 149.156.117.244
+Nmap scan report for 149.156.117.245
+Nmap scan report for 149.156.117.246
+Nmap scan report for 149.156.117.247
+Nmap scan report for 149.156.117.248
+Nmap scan report for batko.gorn.agh.edu.pl (149.156.117.249)
+Nmap scan report for b1rtr.agh.edu.pl (149.156.117.250)
+Nmap scan report for 149.156.117.251
+Nmap scan report for stanley.mat.agh.edu.pl (149.156.117.252)
+Nmap scan report for lewicki.gorn.agh.edu.pl (149.156.117.253)
+Nmap scan report for 149.156.117.254
+Nmap scan report for 149.156.117.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 8.01 seconds

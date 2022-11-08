@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:04 CEST
+Nmap scan report for 149.156.113.0
+Nmap scan report for 149.156.113.1
+Nmap scan report for 149.156.113.2
+Nmap scan report for 149.156.113.3
+Nmap scan report for 149.156.113.4
+Nmap scan report for 149.156.113.5
+Nmap scan report for 149.156.113.6
+Nmap scan report for 149.156.113.7
+Nmap scan report for 149.156.113.8
+Nmap scan report for 149.156.113.9
+Nmap scan report for kat-f.bg.agh.edu.pl (149.156.113.10)
+Nmap scan report for 149.156.113.11
+Nmap scan report for 149.156.113.12
+Nmap scan report for 149.156.113.13
+Nmap scan report for 149.156.113.14
+Nmap scan report for 149.156.113.15
+Nmap scan report for 149.156.113.16
+Nmap scan report for 149.156.113.17
+Nmap scan report for 149.156.113.18
+Nmap scan report for 149.156.113.19
+Nmap scan report for 149.156.113.20
+Nmap scan report for 149.156.113.21
+Nmap scan report for 149.156.113.22
+Nmap scan report for 149.156.113.23
+Nmap scan report for 149.156.113.24
+Nmap scan report for 149.156.113.25
+Nmap scan report for 149.156.113.26
+Nmap scan report for 149.156.113.27
+Nmap scan report for 149.156.113.28
+Nmap scan report for 149.156.113.29
+Nmap scan report for 149.156.113.30
+Nmap scan report for 149.156.113.31
+Nmap scan report for 149.156.113.32
+Nmap scan report for 149.156.113.33
+Nmap scan report for 149.156.113.34
+Nmap scan report for 149.156.113.35
+Nmap scan report for 149.156.113.36
+Nmap scan report for 149.156.113.37
+Nmap scan report for 149.156.113.38
+Nmap scan report for 149.156.113.39
+Nmap scan report for 149.156.113.40
+Nmap scan report for 149.156.113.41
+Nmap scan report for 149.156.113.42
+Nmap scan report for 149.156.113.43
+Nmap scan report for 149.156.113.44
+Nmap scan report for 149.156.113.45
+Nmap scan report for 149.156.113.46
+Nmap scan report for 149.156.113.47
+Nmap scan report for 149.156.113.48
+Nmap scan report for 149.156.113.49
+Nmap scan report for 149.156.113.50
+Nmap scan report for 149.156.113.51
+Nmap scan report for 149.156.113.52
+Nmap scan report for 149.156.113.53
+Nmap scan report for 149.156.113.54
+Nmap scan report for 149.156.113.55
+Nmap scan report for 149.156.113.56
+Nmap scan report for 149.156.113.57
+Nmap scan report for 149.156.113.58
+Nmap scan report for 149.156.113.59
+Nmap scan report for 149.156.113.60
+Nmap scan report for 149.156.113.61
+Nmap scan report for gw62.bg.agh.edu.pl (149.156.113.62)
+Nmap scan report for 149.156.113.63
+Nmap scan report for 149.156.113.64
+Nmap scan report for pc65.bg.agh.edu.pl (149.156.113.65)
+Nmap scan report for chameleon.bg.agh.edu.pl (149.156.113.66)
+Nmap scan report for 149.156.113.67
+Nmap scan report for s68.bg.agh.edu.pl (149.156.113.68)
+Nmap scan report for pc69.bg.agh.edu.pl (149.156.113.69)
+Nmap scan report for pc70.bg.agh.edu.pl (149.156.113.70)
+Nmap scan report for puchacz.bg.agh.edu.pl (149.156.113.71)
+Nmap scan report for pc72.bg.agh.edu.pl (149.156.113.72)
+Nmap scan report for pc73.bg.agh.edu.pl (149.156.113.73)
+Nmap scan report for pc74.bg.agh.edu.pl (149.156.113.74)
+Nmap scan report for pojdzka.bg.agh.edu.pl (149.156.113.75)
+Nmap scan report for 149.156.113.76
+Nmap scan report for 149.156.113.77
+Nmap scan report for puszczyk.bg.agh.edu.pl (149.156.113.78)
+Nmap scan report for 149.156.113.79
+Nmap scan report for 149.156.113.80
+Nmap scan report for 149.156.113.81
+Nmap scan report for 149.156.113.82
+Nmap scan report for 149.156.113.83
+Nmap scan report for 149.156.113.84
+Nmap scan report for 149.156.113.85
+Nmap scan report for 149.156.113.86
+Nmap scan report for 149.156.113.87
+Nmap scan report for 149.156.113.88
+Nmap scan report for 149.156.113.89
+Nmap scan report for 149.156.113.90
+Nmap scan report for 149.156.113.91
+Nmap scan report for 149.156.113.92
+Nmap scan report for 149.156.113.93
+Nmap scan report for 149.156.113.94
+Nmap scan report for 149.156.113.95
+Nmap scan report for 149.156.113.96
+Nmap scan report for 149.156.113.97
+Nmap scan report for 149.156.113.98
+Nmap scan report for ad.bg.agh.edu.pl (149.156.113.99)
+Nmap scan report for 149.156.113.100
+Nmap scan report for ns.bg.agh.edu.pl (149.156.113.101)
+Nmap scan report for 149.156.113.102
+Nmap scan report for 149.156.113.103
+Nmap scan report for 149.156.113.104
+Nmap scan report for 149.156.113.105
+Nmap scan report for 149.156.113.106
+Nmap scan report for 149.156.113.107
+Nmap scan report for 149.156.113.108
+Nmap scan report for nimfa.bg.agh.edu.pl (149.156.113.109)
+Nmap scan report for 149.156.113.110
+Nmap scan report for wbg.bg.agh.edu.pl (149.156.113.111)
+Nmap scan report for 149.156.113.112
+Nmap scan report for wbg2.bg.agh.edu.pl (149.156.113.113)
+Nmap scan report for kakadu.bg.agh.edu.pl (149.156.113.114)
+Nmap scan report for wbg4.bg.agh.edu.pl (149.156.113.115)
+Nmap scan report for 149.156.113.116
+Nmap scan report for 149.156.113.117
+Nmap scan report for 149.156.113.118
+Nmap scan report for 149.156.113.119
+Nmap scan report for koala.bg.agh.edu.pl (149.156.113.120)
+Nmap scan report for asa121.bg.agh.edu.pl (149.156.113.121)
+Nmap scan report for 149.156.113.122
+Nmap scan report for 149.156.113.123
+Nmap scan report for 149.156.113.124
+Nmap scan report for 149.156.113.125
+Nmap scan report for 149.156.113.126
+Nmap scan report for 149.156.113.127
+Nmap scan report for 149.156.113.128
+Nmap scan report for 149.156.113.129
+Nmap scan report for 149.156.113.130
+Nmap scan report for 149.156.113.131
+Nmap scan report for 149.156.113.132
+Nmap scan report for 149.156.113.133
+Nmap scan report for 149.156.113.134
+Nmap scan report for 149.156.113.135
+Nmap scan report for 149.156.113.136
+Nmap scan report for 149.156.113.137
+Nmap scan report for 149.156.113.138
+Nmap scan report for 149.156.113.139
+Nmap scan report for 149.156.113.140
+Nmap scan report for 149.156.113.141
+Nmap scan report for 149.156.113.142
+Nmap scan report for 149.156.113.143
+Nmap scan report for 149.156.113.144
+Nmap scan report for 149.156.113.145
+Nmap scan report for 149.156.113.146
+Nmap scan report for 149.156.113.147
+Nmap scan report for 149.156.113.148
+Nmap scan report for 149.156.113.149
+Nmap scan report for ekran.bg.agh.edu.pl (149.156.113.150)
+Nmap scan report for 149.156.113.151
+Nmap scan report for 149.156.113.152
+Nmap scan report for 149.156.113.153
+Nmap scan report for 149.156.113.154
+Nmap scan report for 149.156.113.155
+Nmap scan report for 149.156.113.156
+Nmap scan report for 149.156.113.157
+Nmap scan report for 149.156.113.158
+Nmap scan report for 149.156.113.159
+Nmap scan report for 149.156.113.160
+Nmap scan report for 149.156.113.161
+Nmap scan report for 149.156.113.162
+Nmap scan report for 149.156.113.163
+Nmap scan report for 149.156.113.164
+Nmap scan report for 149.156.113.165
+Nmap scan report for 149.156.113.166
+Nmap scan report for 149.156.113.167
+Nmap scan report for 149.156.113.168
+Nmap scan report for 149.156.113.169
+Nmap scan report for 149.156.113.170
+Nmap scan report for 149.156.113.171
+Nmap scan report for 149.156.113.172
+Nmap scan report for 149.156.113.173
+Nmap scan report for 149.156.113.174
+Nmap scan report for 149.156.113.175
+Nmap scan report for 149.156.113.176
+Nmap scan report for pin.bg.agh.edu.pl (149.156.113.177)
+Nmap scan report for ozs.bg.agh.edu.pl (149.156.113.178)
+Nmap scan report for 149.156.113.179
+Nmap scan report for ps180.bg.agh.edu.pl (149.156.113.180)
+Nmap scan report for 149.156.113.181
+Nmap scan report for vtls.bg.agh.edu.pl (149.156.113.182)
+Nmap scan report for term.bg.agh.edu.pl (149.156.113.183)
+Nmap scan report for term-f.bg.agh.edu.pl (149.156.113.184)
+Nmap scan report for swd.bg.agh.edu.pl (149.156.113.185)
+Nmap scan report for 149.156.113.186
+Nmap scan report for 149.156.113.187
+Nmap scan report for ozs-czyt.bg.agh.edu.pl (149.156.113.188)
+Nmap scan report for czyt1.bg.agh.edu.pl (149.156.113.189)
+Nmap scan report for 149.156.113.190
+Nmap scan report for 149.156.113.191
+Nmap scan report for 149.156.113.192
+Nmap scan report for 149.156.113.193
+Nmap scan report for lab.bg.agh.edu.pl (149.156.113.194)
+Nmap scan report for 149.156.113.195
+Nmap scan report for 149.156.113.196
+Nmap scan report for pracumowa.bg.agh.edu.pl (149.156.113.197)
+Nmap scan report for prac.bg.agh.edu.pl (149.156.113.198)
+Nmap scan report for 149.156.113.199
+Nmap scan report for 149.156.113.200
+Nmap scan report for co.bg.agh.edu.pl (149.156.113.201)
+Nmap scan report for pc202.bg.agh.edu.pl (149.156.113.202)
+Nmap scan report for pc203.bg.agh.edu.pl (149.156.113.203)
+Nmap scan report for 149.156.113.204
+Nmap scan report for 149.156.113.205
+Nmap scan report for 149.156.113.206
+Nmap scan report for 149.156.113.207
+Nmap scan report for 149.156.113.208
+Nmap scan report for 149.156.113.209
+Nmap scan report for 149.156.113.210
+Nmap scan report for 149.156.113.211
+Nmap scan report for 149.156.113.212
+Nmap scan report for 149.156.113.213
+Nmap scan report for 149.156.113.214
+Nmap scan report for 149.156.113.215
+Nmap scan report for 149.156.113.216
+Nmap scan report for 149.156.113.217
+Nmap scan report for 149.156.113.218
+Nmap scan report for 149.156.113.219
+Nmap scan report for 149.156.113.220
+Nmap scan report for 149.156.113.221
+Nmap scan report for 149.156.113.222
+Nmap scan report for 149.156.113.223
+Nmap scan report for 149.156.113.224
+Nmap scan report for 149.156.113.225
+Nmap scan report for 149.156.113.226
+Nmap scan report for 149.156.113.227
+Nmap scan report for 149.156.113.228
+Nmap scan report for 149.156.113.229
+Nmap scan report for 149.156.113.230
+Nmap scan report for 149.156.113.231
+Nmap scan report for 149.156.113.232
+Nmap scan report for 149.156.113.233
+Nmap scan report for 149.156.113.234
+Nmap scan report for 149.156.113.235
+Nmap scan report for 149.156.113.236
+Nmap scan report for 149.156.113.237
+Nmap scan report for 149.156.113.238
+Nmap scan report for 149.156.113.239
+Nmap scan report for 149.156.113.240
+Nmap scan report for 149.156.113.241
+Nmap scan report for 149.156.113.242
+Nmap scan report for 149.156.113.243
+Nmap scan report for 149.156.113.244
+Nmap scan report for 149.156.113.245
+Nmap scan report for 149.156.113.246
+Nmap scan report for bgagh.bg.agh.edu.pl (149.156.113.247)
+Nmap scan report for 149.156.113.248
+Nmap scan report for 149.156.113.249
+Nmap scan report for b1rtr.bg.agh.edu.pl (149.156.113.250)
+Nmap scan report for bg251.bg.agh.edu.pl (149.156.113.251)
+Nmap scan report for 149.156.113.252
+Nmap scan report for 149.156.113.253
+Nmap scan report for 149.156.113.254
+Nmap scan report for 149.156.113.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 8.02 seconds

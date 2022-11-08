@@ -1,0 +1,51 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 10:09 CEST
+Nmap scan report for krywan.metal.agh.edu.pl (149.156.112.6)
+Host is up (0.00045s latency).
+Nmap scan report for umbreon.metal.agh.edu.pl (149.156.112.13)
+Host is up (0.00068s latency).
+Nmap scan report for metal.metal.agh.edu.pl (149.156.112.15)
+Host is up (0.00055s latency).
+Nmap scan report for ipguru.metal.agh.edu.pl (149.156.112.18)
+Host is up (0.00086s latency).
+Nmap scan report for 149.156.112.27
+Host is up (0.00052s latency).
+Nmap scan report for willow.metal.agh.edu.pl (149.156.112.42)
+Host is up (0.0013s latency).
+Nmap scan report for nemezis.metal.agh.edu.pl (149.156.112.44)
+Host is up (0.00043s latency).
+Nmap scan report for enigma.metal.agh.edu.pl (149.156.112.46)
+Host is up (0.00047s latency).
+Nmap scan report for ziamol.metal.agh.edu.pl (149.156.112.51)
+Host is up (0.0031s latency).
+Nmap scan report for koala.metal.agh.edu.pl (149.156.112.52)
+Host is up (0.0013s latency).
+Nmap scan report for chomik.metal.agh.edu.pl (149.156.112.96)
+Host is up (0.0013s latency).
+Nmap scan report for 149.156.112.97
+Host is up (0.00076s latency).
+Nmap scan report for pwojnaro.metal.agh.edu.pl (149.156.112.99)
+Host is up (0.00090s latency).
+Nmap scan report for monika.metal.agh.edu.pl (149.156.112.100)
+Host is up (0.0016s latency).
+Nmap scan report for jameson.metal.agh.edu.pl (149.156.112.111)
+Host is up (0.00073s latency).
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.125)
+Host is up (0.0039s latency).
+Nmap scan report for 149.156.112.126
+Host is up (0.00064s latency).
+Nmap scan report for metody.metal.agh.edu.pl (149.156.112.143)
+Host is up (0.00062s latency).
+Nmap scan report for 149.156.112.160
+Host is up (0.0081s latency).
+Nmap scan report for heavy.metal.agh.edu.pl (149.156.112.162)
+Host is up (0.00034s latency).
+Nmap scan report for klimek.metal.agh.edu.pl (149.156.112.172)
+Host is up (0.00060s latency).
+Nmap scan report for golab.metal.agh.edu.pl (149.156.112.173)
+Host is up (0.00058s latency).
+Nmap scan report for 149.156.112.217
+Host is up (0.018s latency).
+Nmap scan report for b6rtr.agh.edu.pl (149.156.112.250)
+Host is up (0.0091s latency).
+Nmap done: 256 IP addresses (24 hosts up) scanned in 3.48 seconds

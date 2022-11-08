@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:00 CEST
+Nmap scan report for 149.156.107.0
+Nmap scan report for ktipm.ktipm.agh.edu.pl (149.156.107.1)
+Nmap scan report for fractal.zet.agh.edu.pl (149.156.107.2)
+Nmap scan report for chaos.zet.agh.edu.pl (149.156.107.3)
+Nmap scan report for minolta.zet.agh.edu.pl (149.156.107.4)
+Nmap scan report for sekret2.zet.agh.edu.pl (149.156.107.5)
+Nmap scan report for chopin.zet.agh.edu.pl (149.156.107.6)
+Nmap scan report for cirus.zet.agh.edu.pl (149.156.107.7)
+Nmap scan report for volt.zet.agh.edu.pl (149.156.107.8)
+Nmap scan report for watt.zet.agh.edu.pl (149.156.107.9)
+Nmap scan report for amper.zet.agh.edu.pl (149.156.107.10)
+Nmap scan report for wrd.zet.agh.edu.pl (149.156.107.11)
+Nmap scan report for henr.zet.agh.edu.pl (149.156.107.12)
+Nmap scan report for p115-3.zet.agh.edu.pl (149.156.107.13)
+Nmap scan report for p111.zet.agh.edu.pl (149.156.107.14)
+Nmap scan report for pcania.zet.agh.edu.pl (149.156.107.15)
+Nmap scan report for alumina1.mn.agh.edu.pl (149.156.107.16)
+Nmap scan report for prezes.zet.agh.edu.pl (149.156.107.17)
+Nmap scan report for distalo.mn.agh.edu.pl (149.156.107.18)
+Nmap scan report for 149.156.107.19
+Nmap scan report for 149.156.107.20
+Nmap scan report for bem.zet.agh.edu.pl (149.156.107.21)
+Nmap scan report for gandalf.zet.agh.edu.pl (149.156.107.22)
+Nmap scan report for fem.zet.agh.edu.pl (149.156.107.23)
+Nmap scan report for diuna.zet.agh.edu.pl (149.156.107.24)
+Nmap scan report for 149.156.107.25
+Nmap scan report for 149.156.107.26
+Nmap scan report for 149.156.107.27
+Nmap scan report for 149.156.107.28
+Nmap scan report for 149.156.107.29
+Nmap scan report for ecctd03.zet.agh.edu.pl (149.156.107.30)
+Nmap scan report for b3-komp2.zet.agh.edu.pl (149.156.107.31)
+Nmap scan report for b3-komp3.zet.agh.edu.pl (149.156.107.32)
+Nmap scan report for b3-komp4.zet.agh.edu.pl (149.156.107.33)
+Nmap scan report for b3-komp5.zet.agh.edu.pl (149.156.107.34)
+Nmap scan report for b3-komp6.zet.agh.edu.pl (149.156.107.35)
+Nmap scan report for b3-komp7.zet.agh.edu.pl (149.156.107.36)
+Nmap scan report for hp4600.zet.agh.edu.pl (149.156.107.37)
+Nmap scan report for hp5100.zet.agh.edu.pl (149.156.107.38)
+Nmap scan report for ricoh.zet.agh.edu.pl (149.156.107.39)
+Nmap scan report for bosman.zet.agh.edu.pl (149.156.107.40)
+Nmap scan report for b3-komp11.zet.agh.edu.pl (149.156.107.41)
+Nmap scan report for b3-komp12.zet.agh.edu.pl (149.156.107.42)
+Nmap scan report for b3-komp13.zet.agh.edu.pl (149.156.107.43)
+Nmap scan report for musti.zet.agh.edu.pl (149.156.107.44)
+Nmap scan report for zasus.zet.agh.edu.pl (149.156.107.45)
+Nmap scan report for masus.zet.agh.edu.pl (149.156.107.46)
+Nmap scan report for alumina2.mn.agh.edu.pl (149.156.107.47)
+Nmap scan report for mis.mn.agh.edu.pl (149.156.107.48)
+Nmap scan report for 149.156.107.49
+Nmap scan report for energy01.wpie.agh.edu.pl (149.156.107.50)
+Nmap scan report for wpie1.wpie.agh.edu.pl (149.156.107.51)
+Nmap scan report for wpie2.wpie.agh.edu.pl (149.156.107.52)
+Nmap scan report for wpie3.wpie.agh.edu.pl (149.156.107.53)
+Nmap scan report for wpie4.wpie.agh.edu.pl (149.156.107.54)
+Nmap scan report for wpie5.wpie.agh.edu.pl (149.156.107.55)
+Nmap scan report for wpie6.wpie.agh.edu.pl (149.156.107.56)
+Nmap scan report for wpie7.wpie.agh.edu.pl (149.156.107.57)
+Nmap scan report for wpie8.wpie.agh.edu.pl (149.156.107.58)
+Nmap scan report for wpie9.wpie.agh.edu.pl (149.156.107.59)
+Nmap scan report for wpie10.wpie.agh.edu.pl (149.156.107.60)
+Nmap scan report for wpie11.wpie.agh.edu.pl (149.156.107.61)
+Nmap scan report for wpie12.wpie.agh.edu.pl (149.156.107.62)
+Nmap scan report for wpie13.wpie.agh.edu.pl (149.156.107.63)
+Nmap scan report for wpie14.wpie.agh.edu.pl (149.156.107.64)
+Nmap scan report for wpie15.wpie.agh.edu.pl (149.156.107.65)
+Nmap scan report for wpie16.wpie.agh.edu.pl (149.156.107.66)
+Nmap scan report for wpie17.wpie.agh.edu.pl (149.156.107.67)
+Nmap scan report for wpie18.wpie.agh.edu.pl (149.156.107.68)
+Nmap scan report for wpie19.wpie.agh.edu.pl (149.156.107.69)
+Nmap scan report for wpie20.wpie.agh.edu.pl (149.156.107.70)
+Nmap scan report for wpie21.wpie.agh.edu.pl (149.156.107.71)
+Nmap scan report for wpie22.wpie.agh.edu.pl (149.156.107.72)
+Nmap scan report for wpie23.wpie.agh.edu.pl (149.156.107.73)
+Nmap scan report for wpie24.wpie.agh.edu.pl (149.156.107.74)
+Nmap scan report for wpie25.wpie.agh.edu.pl (149.156.107.75)
+Nmap scan report for wpie26.wpie.agh.edu.pl (149.156.107.76)
+Nmap scan report for wpie27.wpie.agh.edu.pl (149.156.107.77)
+Nmap scan report for wpie28.wpie.agh.edu.pl (149.156.107.78)
+Nmap scan report for wpie29.wpie.agh.edu.pl (149.156.107.79)
+Nmap scan report for wpie30.wpie.agh.edu.pl (149.156.107.80)
+Nmap scan report for wpie31.wpie.agh.edu.pl (149.156.107.81)
+Nmap scan report for b3biuro2.wpie.agh.edu.pl (149.156.107.82)
+Nmap scan report for dziekan3.wpie.agh.edu.pl (149.156.107.83)
+Nmap scan report for wpie32.wpie.agh.edu.pl (149.156.107.84)
+Nmap scan report for wpie33.wpie.agh.edu.pl (149.156.107.85)
+Nmap scan report for wpierekrut1.wpie.agh.edu.pl (149.156.107.86)
+Nmap scan report for wpierekrut2.wpie.agh.edu.pl (149.156.107.87)
+Nmap scan report for wpie34.wpie.agh.edu.pl (149.156.107.88)
+Nmap scan report for wpie35.wpie.agh.edu.pl (149.156.107.89)
+Nmap scan report for wpie36.wpie.agh.edu.pl (149.156.107.90)
+Nmap scan report for b3-1.mn.agh.edu.pl (149.156.107.91)
+Nmap scan report for b3-2.mn.agh.edu.pl (149.156.107.92)
+Nmap scan report for b3-3.mn.agh.edu.pl (149.156.107.93)
+Nmap scan report for b3-4.mn.agh.edu.pl (149.156.107.94)
+Nmap scan report for b3-5.mn.agh.edu.pl (149.156.107.95)
+Nmap scan report for b3-6.mn.agh.edu.pl (149.156.107.96)
+Nmap scan report for b3-7.mn.agh.edu.pl (149.156.107.97)
+Nmap scan report for b3-8.mn.agh.edu.pl (149.156.107.98)
+Nmap scan report for b3-9.mn.agh.edu.pl (149.156.107.99)
+Nmap scan report for b3-10.mn.agh.edu.pl (149.156.107.100)
+Nmap scan report for b3-11.mn.agh.edu.pl (149.156.107.101)
+Nmap scan report for b3-12.mn.agh.edu.pl (149.156.107.102)
+Nmap scan report for b3-13.mn.agh.edu.pl (149.156.107.103)
+Nmap scan report for b3-14.mn.agh.edu.pl (149.156.107.104)
+Nmap scan report for b3-15.mn.agh.edu.pl (149.156.107.105)
+Nmap scan report for b3-16.mn.agh.edu.pl (149.156.107.106)
+Nmap scan report for 149.156.107.107
+Nmap scan report for 149.156.107.108
+Nmap scan report for 149.156.107.109
+Nmap scan report for tm110.imir.agh.edu.pl (149.156.107.110)
+Nmap scan report for josef.imir.agh.edu.pl (149.156.107.111)
+Nmap scan report for tm112.imir.agh.edu.pl (149.156.107.112)
+Nmap scan report for krawiec.imir.agh.edu.pl (149.156.107.113)
+Nmap scan report for haduch.imir.agh.edu.pl (149.156.107.114)
+Nmap scan report for tyka.imir.agh.edu.pl (149.156.107.115)
+Nmap scan report for spatyk.imir.agh.edu.pl (149.156.107.116)
+Nmap scan report for WHankiew.imir.agh.edu.pl (149.156.107.117)
+Nmap scan report for TomGorD.imir.agh.edu.pl (149.156.107.118)
+Nmap scan report for TomGoral.imir.agh.edu.pl (149.156.107.119)
+Nmap scan report for zmiue-serv.imir.agh.edu.pl (149.156.107.120)
+Nmap scan report for pcmiue1.imir.agh.edu.pl (149.156.107.121)
+Nmap scan report for pcmiue2.imir.agh.edu.pl (149.156.107.122)
+Nmap scan report for pcmiue3.imir.agh.edu.pl (149.156.107.123)
+Nmap scan report for pcmiue4.imir.agh.edu.pl (149.156.107.124)
+Nmap scan report for pcmiue5.imir.agh.edu.pl (149.156.107.125)
+Nmap scan report for pcmiue6.imir.agh.edu.pl (149.156.107.126)
+Nmap scan report for pcmiue7.imir.agh.edu.pl (149.156.107.127)
+Nmap scan report for pcmiue8.imir.agh.edu.pl (149.156.107.128)
+Nmap scan report for pcmiue9.imir.agh.edu.pl (149.156.107.129)
+Nmap scan report for pcmiue10.imir.agh.edu.pl (149.156.107.130)
+Nmap scan report for pcmiue11.imir.agh.edu.pl (149.156.107.131)
+Nmap scan report for pcmiue12.imir.agh.edu.pl (149.156.107.132)
+Nmap scan report for pcmiue13.imir.agh.edu.pl (149.156.107.133)
+Nmap scan report for pcmiue14.imir.agh.edu.pl (149.156.107.134)
+Nmap scan report for pcmiue15.imir.agh.edu.pl (149.156.107.135)
+Nmap scan report for gumula.imir.agh.edu.pl (149.156.107.136)
+Nmap scan report for kielbasa.imir.agh.edu.pl (149.156.107.137)
+Nmap scan report for stfortun.imir.agh.edu.pl (149.156.107.138)
+Nmap scan report for knapczyk.imir.agh.edu.pl (149.156.107.139)
+Nmap scan report for pajak.imir.agh.edu.pl (149.156.107.140)
+Nmap scan report for odziewa.imir.agh.edu.pl (149.156.107.141)
+Nmap scan report for jaszczur.imir.agh.edu.pl (149.156.107.142)
+Nmap scan report for papytko.imir.agh.edu.pl (149.156.107.143)
+Nmap scan report for sobole.imir.agh.edu.pl (149.156.107.144)
+Nmap scan report for tokarz.imir.agh.edu.pl (149.156.107.145)
+Nmap scan report for nalewa.imir.agh.edu.pl (149.156.107.146)
+Nmap scan report for majwojna.imir.agh.edu.pl (149.156.107.147)
+Nmap scan report for jwojcie.imir.agh.edu.pl (149.156.107.148)
+Nmap scan report for taler.imir.agh.edu.pl (149.156.107.149)
+Nmap scan report for krysiap.imir.agh.edu.pl (149.156.107.150)
+Nmap scan report for mikos.imir.agh.edu.pl (149.156.107.151)
+Nmap scan report for pasimi1.imir.agh.edu.pl (149.156.107.152)
+Nmap scan report for pasimi2.imir.agh.edu.pl (149.156.107.153)
+Nmap scan report for pasimi3.imir.agh.edu.pl (149.156.107.154)
+Nmap scan report for 149.156.107.155
+Nmap scan report for fiszer.imir.agh.edu.pl (149.156.107.156)
+Nmap scan report for PioGr2.imir.agh.edu.pl (149.156.107.157)
+Nmap scan report for TTokarz.imir.agh.edu.pl (149.156.107.158)
+Nmap scan report for bazyli.imir.agh.edu.pl (149.156.107.159)
+Nmap scan report for lucyfer.imir.agh.edu.pl (149.156.107.160)
+Nmap scan report for belzebub.imir.agh.edu.pl (149.156.107.161)
+Nmap scan report for boruta.imir.agh.edu.pl (149.156.107.162)
+Nmap scan report for skoda.imir.agh.edu.pl (149.156.107.163)
+Nmap scan report for bonikowski.imir.agh.edu.pl (149.156.107.164)
+Nmap scan report for 149.156.107.165
+Nmap scan report for 149.156.107.166
+Nmap scan report for 149.156.107.167
+Nmap scan report for 149.156.107.168
+Nmap scan report for 149.156.107.169
+Nmap scan report for 149.156.107.170
+Nmap scan report for 149.156.107.171
+Nmap scan report for 149.156.107.172
+Nmap scan report for 149.156.107.173
+Nmap scan report for 149.156.107.174
+Nmap scan report for 149.156.107.175
+Nmap scan report for 149.156.107.176
+Nmap scan report for 149.156.107.177
+Nmap scan report for 149.156.107.178
+Nmap scan report for 149.156.107.179
+Nmap scan report for 149.156.107.180
+Nmap scan report for 149.156.107.181
+Nmap scan report for 149.156.107.182
+Nmap scan report for 149.156.107.183
+Nmap scan report for 149.156.107.184
+Nmap scan report for 149.156.107.185
+Nmap scan report for 149.156.107.186
+Nmap scan report for 149.156.107.187
+Nmap scan report for 149.156.107.188
+Nmap scan report for 149.156.107.189
+Nmap scan report for 149.156.107.190
+Nmap scan report for 149.156.107.191
+Nmap scan report for 149.156.107.192
+Nmap scan report for 149.156.107.193
+Nmap scan report for 149.156.107.194
+Nmap scan report for 149.156.107.195
+Nmap scan report for 149.156.107.196
+Nmap scan report for 149.156.107.197
+Nmap scan report for 149.156.107.198
+Nmap scan report for mosfet.zmet.agh.edu.pl (149.156.107.199)
+Nmap scan report for sun.imir.agh.edu.pl (149.156.107.200)
+Nmap scan report for wojtek1.imir.agh.edu.pl (149.156.107.201)
+Nmap scan report for wojtek2.imir.agh.edu.pl (149.156.107.202)
+Nmap scan report for rusek.imir.agh.edu.pl (149.156.107.203)
+Nmap scan report for tommadej.imir.agh.edu.pl (149.156.107.204)
+Nmap scan report for jarekj.imir.agh.edu.pl (149.156.107.205)
+Nmap scan report for b3-217.imir.agh.edu.pl (149.156.107.206)
+Nmap scan report for b3-120.imir.agh.edu.pl (149.156.107.207)
+Nmap scan report for laszczka.imir.agh.edu.pl (149.156.107.208)
+Nmap scan report for knm1.imir.agh.edu.pl (149.156.107.209)
+Nmap scan report for knm2.imir.agh.edu.pl (149.156.107.210)
+Nmap scan report for cam-211.imir.agh.edu.pl (149.156.107.211)
+Nmap scan report for cam-212.imir.agh.edu.pl (149.156.107.212)
+Nmap scan report for cam-213.imir.agh.edu.pl (149.156.107.213)
+Nmap scan report for cam-214.imir.agh.edu.pl (149.156.107.214)
+Nmap scan report for cam-215.imir.agh.edu.pl (149.156.107.215)
+Nmap scan report for cam-216.imir.agh.edu.pl (149.156.107.216)
+Nmap scan report for cam-217.imir.agh.edu.pl (149.156.107.217)
+Nmap scan report for cam-218.imir.agh.edu.pl (149.156.107.218)
+Nmap scan report for cam-219.imir.agh.edu.pl (149.156.107.219)
+Nmap scan report for cam-220.imir.agh.edu.pl (149.156.107.220)
+Nmap scan report for cam-221.imir.agh.edu.pl (149.156.107.221)
+Nmap scan report for cam-222.imir.agh.edu.pl (149.156.107.222)
+Nmap scan report for cam-223.imir.agh.edu.pl (149.156.107.223)
+Nmap scan report for cam-224.imir.agh.edu.pl (149.156.107.224)
+Nmap scan report for cam-225.imir.agh.edu.pl (149.156.107.225)
+Nmap scan report for cam-226.imir.agh.edu.pl (149.156.107.226)
+Nmap scan report for 149.156.107.227
+Nmap scan report for 149.156.107.228
+Nmap scan report for 149.156.107.229
+Nmap scan report for wpie37.wpie.agh.edu.pl (149.156.107.230)
+Nmap scan report for wpie38.wpie.agh.edu.pl (149.156.107.231)
+Nmap scan report for wpie39.wpie.agh.edu.pl (149.156.107.232)
+Nmap scan report for wpie40.wpie.agh.edu.pl (149.156.107.233)
+Nmap scan report for wpie41.wpie.agh.edu.pl (149.156.107.234)
+Nmap scan report for wpedziek5.wpie.agh.edu.pl (149.156.107.235)
+Nmap scan report for wpedziek6.wpie.agh.edu.pl (149.156.107.236)
+Nmap scan report for 149.156.107.237
+Nmap scan report for 149.156.107.238
+Nmap scan report for 149.156.107.239
+Nmap scan report for 149.156.107.240
+Nmap scan report for 149.156.107.241
+Nmap scan report for 149.156.107.242
+Nmap scan report for 149.156.107.243
+Nmap scan report for libra.imir.agh.edu.pl (149.156.107.244)
+Nmap scan report for cetus.imir.agh.edu.pl (149.156.107.245)
+Nmap scan report for luna.imir.agh.edu.pl (149.156.107.246)
+Nmap scan report for 149.156.107.247
+Nmap scan report for arctur.imir.agh.edu.pl (149.156.107.248)
+Nmap scan report for 149.156.107.249
+Nmap scan report for b1rtr.agh.edu.pl (149.156.107.250)
+Nmap scan report for 149.156.107.251
+Nmap scan report for b3gate.imir.agh.edu.pl (149.156.107.252)
+Nmap scan report for 149.156.107.253
+Nmap scan report for 149.156.107.254
+Nmap scan report for 149.156.107.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 5.51 seconds

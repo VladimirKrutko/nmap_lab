@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:06 CEST
+Nmap scan report for 149.156.118.0
+Nmap scan report for jedyneczka.geod.agh.edu.pl (149.156.118.1)
+Nmap scan report for lgo.geod.agh.edu.pl (149.156.118.2)
+Nmap scan report for klon.geod.agh.edu.pl (149.156.118.3)
+Nmap scan report for megastorage.geod.agh.edu.pl (149.156.118.4)
+Nmap scan report for 149.156.118.5
+Nmap scan report for epuniach.geod.agh.edu.pl (149.156.118.6)
+Nmap scan report for olgas.geod.agh.edu.pl (149.156.118.7)
+Nmap scan report for 149.156.118.8
+Nmap scan report for bda.geod.agh.edu.pl (149.156.118.9)
+Nmap scan report for acer.geod.agh.edu.pl (149.156.118.10)
+Nmap scan report for apollo.geod.agh.edu.pl (149.156.118.11)
+Nmap scan report for gpsg.geod.agh.edu.pl (149.156.118.12)
+Nmap scan report for gps13.geod.agh.edu.pl (149.156.118.13)
+Nmap scan report for sroka.geod.agh.edu.pl (149.156.118.14)
+Nmap scan report for ab.geod.agh.edu.pl (149.156.118.15)
+Nmap scan report for itce.geod.agh.edu.pl (149.156.118.16)
+Nmap scan report for geomatyka.geod.agh.edu.pl (149.156.118.17)
+Nmap scan report for rosa.geod.agh.edu.pl (149.156.118.18)
+Nmap scan report for vc.geod.agh.edu.pl (149.156.118.19)
+Nmap scan report for lukas.geod.agh.edu.pl (149.156.118.20)
+Nmap scan report for progress.geod.agh.edu.pl (149.156.118.21)
+Nmap scan report for kl2.geod.agh.edu.pl (149.156.118.22)
+Nmap scan report for przemek.geod.agh.edu.pl (149.156.118.23)
+Nmap scan report for 149.156.118.24
+Nmap scan report for 149.156.118.25
+Nmap scan report for bdc.geod.agh.edu.pl (149.156.118.26)
+Nmap scan report for http3.geod.agh.edu.pl (149.156.118.27)
+Nmap scan report for vm.geod.agh.edu.pl (149.156.118.28)
+Nmap scan report for 149.156.118.29
+Nmap scan report for cirrus.geod.agh.edu.pl (149.156.118.30)
+Nmap scan report for robeko.geod.agh.edu.pl (149.156.118.31)
+Nmap scan report for ipsl.geod.agh.edu.pl (149.156.118.32)
+Nmap scan report for ipsk.geod.agh.edu.pl (149.156.118.33)
+Nmap scan report for p34.geod.agh.edu.pl (149.156.118.34)
+Nmap scan report for kotg1.geod.agh.edu.pl (149.156.118.35)
+Nmap scan report for p36.geod.agh.edu.pl (149.156.118.36)
+Nmap scan report for kruk.geod.agh.edu.pl (149.156.118.37)
+Nmap scan report for phanus.geod.agh.edu.pl (149.156.118.38)
+Nmap scan report for janrus.geod.agh.edu.pl (149.156.118.39)
+Nmap scan report for 149.156.118.40
+Nmap scan report for p41.geod.agh.edu.pl (149.156.118.41)
+Nmap scan report for pendel.geod.agh.edu.pl (149.156.118.42)
+Nmap scan report for gemini.geod.agh.edu.pl (149.156.118.43)
+Nmap scan report for szmaragd.geod.agh.edu.pl (149.156.118.44)
+Nmap scan report for kocierz.geod.agh.edu.pl (149.156.118.45)
+Nmap scan report for overko.geod.agh.edu.pl (149.156.118.46)
+Nmap scan report for 149.156.118.47
+Nmap scan report for gps3.geod.agh.edu.pl (149.156.118.48)
+Nmap scan report for zabierz.geod.agh.edu.pl (149.156.118.49)
+Nmap scan report for zgg50.geod.agh.edu.pl (149.156.118.50)
+Nmap scan report for zgg51.geod.agh.edu.pl (149.156.118.51)
+Nmap scan report for zgg52.geod.agh.edu.pl (149.156.118.52)
+Nmap scan report for zgg53.geod.agh.edu.pl (149.156.118.53)
+Nmap scan report for zgg54.geod.agh.edu.pl (149.156.118.54)
+Nmap scan report for zgg55.geod.agh.edu.pl (149.156.118.55)
+Nmap scan report for zgg56.geod.agh.edu.pl (149.156.118.56)
+Nmap scan report for zgg57.geod.agh.edu.pl (149.156.118.57)
+Nmap scan report for zgg58.geod.agh.edu.pl (149.156.118.58)
+Nmap scan report for zgg59.geod.agh.edu.pl (149.156.118.59)
+Nmap scan report for asterix.geod.agh.edu.pl (149.156.118.60)
+Nmap scan report for kasia.geod.agh.edu.pl (149.156.118.61)
+Nmap scan report for w160548.geod.agh.edu.pl (149.156.118.62)
+Nmap scan report for geomatyka12.geod.agh.edu.pl (149.156.118.63)
+Nmap scan report for aska.geod.agh.edu.pl (149.156.118.64)
+Nmap scan report for 149.156.118.65
+Nmap scan report for epreweda.geod.agh.edu.pl (149.156.118.66)
+Nmap scan report for 149.156.118.67
+Nmap scan report for leszekop.geod.agh.edu.pl (149.156.118.68)
+Nmap scan report for enviro.geod.agh.edu.pl (149.156.118.69)
+Nmap scan report for platan.geod.agh.edu.pl (149.156.118.70)
+Nmap scan report for kowalik.geod.agh.edu.pl (149.156.118.71)
+Nmap scan report for stratus.geod.agh.edu.pl (149.156.118.72)
+Nmap scan report for mars.geod.agh.edu.pl (149.156.118.73)
+Nmap scan report for karol.geod.agh.edu.pl (149.156.118.74)
+Nmap scan report for 149.156.118.75
+Nmap scan report for aga.geod.agh.edu.pl (149.156.118.76)
+Nmap scan report for gip316.geod.agh.edu.pl (149.156.118.77)
+Nmap scan report for cacti.geod.agh.edu.pl (149.156.118.78)
+Nmap scan report for olek.geod.agh.edu.pl (149.156.118.79)
+Nmap scan report for 149.156.118.80
+Nmap scan report for 149.156.118.81
+Nmap scan report for orawiak.geod.agh.edu.pl (149.156.118.82)
+Nmap scan report for vsphere83.geod.agh.edu.pl (149.156.118.83)
+Nmap scan report for hila.geod.agh.edu.pl (149.156.118.84)
+Nmap scan report for 149.156.118.85
+Nmap scan report for 149.156.118.86
+Nmap scan report for 149.156.118.87
+Nmap scan report for 149.156.118.88
+Nmap scan report for 149.156.118.89
+Nmap scan report for tlen.geod.agh.edu.pl (149.156.118.90)
+Nmap scan report for anna.geod.agh.edu.pl (149.156.118.91)
+Nmap scan report for bocian.geod.agh.edu.pl (149.156.118.92)
+Nmap scan report for miki.geod.agh.edu.pl (149.156.118.93)
+Nmap scan report for ola.geod.agh.edu.pl (149.156.118.94)
+Nmap scan report for opal.geod.agh.edu.pl (149.156.118.95)
+Nmap scan report for 149.156.118.96
+Nmap scan report for pingwin.geod.agh.edu.pl (149.156.118.97)
+Nmap scan report for kim2.geod.agh.edu.pl (149.156.118.98)
+Nmap scan report for siemens.geod.agh.edu.pl (149.156.118.99)
+Nmap scan report for zgaga.geod.agh.edu.pl (149.156.118.100)
+Nmap scan report for long.geod.agh.edu.pl (149.156.118.101)
+Nmap scan report for zgg2.geod.agh.edu.pl (149.156.118.102)
+Nmap scan report for trix.geod.agh.edu.pl (149.156.118.103)
+Nmap scan report for zgg4.geod.agh.edu.pl (149.156.118.104)
+Nmap scan report for zgg5.geod.agh.edu.pl (149.156.118.105)
+Nmap scan report for zgg6.geod.agh.edu.pl (149.156.118.106)
+Nmap scan report for zgg7.geod.agh.edu.pl (149.156.118.107)
+Nmap scan report for zgg8.geod.agh.edu.pl (149.156.118.108)
+Nmap scan report for zgg9.geod.agh.edu.pl (149.156.118.109)
+Nmap scan report for zgg10.geod.agh.edu.pl (149.156.118.110)
+Nmap scan report for 149.156.118.111
+Nmap scan report for 149.156.118.112
+Nmap scan report for benus.geod.agh.edu.pl (149.156.118.113)
+Nmap scan report for 149.156.118.114
+Nmap scan report for ela.geod.agh.edu.pl (149.156.118.115)
+Nmap scan report for poczta.geod.agh.edu.pl (149.156.118.116)
+Nmap scan report for krysia.geod.agh.edu.pl (149.156.118.117)
+Nmap scan report for www2.geod.agh.edu.pl (149.156.118.118)
+Nmap scan report for hal.geod.agh.edu.pl (149.156.118.119)
+Nmap scan report for kuras.geod.agh.edu.pl (149.156.118.120)
+Nmap scan report for koala.geod.agh.edu.pl (149.156.118.121)
+Nmap scan report for eja.geod.agh.edu.pl (149.156.118.122)
+Nmap scan report for jan.geod.agh.edu.pl (149.156.118.123)
+Nmap scan report for saturn.geod.agh.edu.pl (149.156.118.124)
+Nmap scan report for midas.geod.agh.edu.pl (149.156.118.125)
+Nmap scan report for libra.geod.agh.edu.pl (149.156.118.126)
+Nmap scan report for vega.geod.agh.edu.pl (149.156.118.127)
+Nmap scan report for riv.geod.agh.edu.pl (149.156.118.128)
+Nmap scan report for bona.geod.agh.edu.pl (149.156.118.129)
+Nmap scan report for vsphere130.geod.agh.edu.pl (149.156.118.130)
+Nmap scan report for jozszew.geod.agh.edu.pl (149.156.118.131)
+Nmap scan report for jkudrys.geod.agh.edu.pl (149.156.118.132)
+Nmap scan report for pbanasik.geod.agh.edu.pl (149.156.118.133)
+Nmap scan report for tchrobak.geod.agh.edu.pl (149.156.118.134)
+Nmap scan report for bskorupa.geod.agh.edu.pl (149.156.118.135)
+Nmap scan report for cbk.geod.agh.edu.pl (149.156.118.136)
+Nmap scan report for alibel.geod.agh.edu.pl (149.156.118.137)
+Nmap scan report for boss.geod.agh.edu.pl (149.156.118.138)
+Nmap scan report for gip316a.geod.agh.edu.pl (149.156.118.139)
+Nmap scan report for 149.156.118.140
+Nmap scan report for hycner.geod.agh.edu.pl (149.156.118.141)
+Nmap scan report for wsus.geod.agh.edu.pl (149.156.118.142)
+Nmap scan report for preweda.geod.agh.edu.pl (149.156.118.143)
+Nmap scan report for marta.geod.agh.edu.pl (149.156.118.144)
+Nmap scan report for kania.geod.agh.edu.pl (149.156.118.145)
+Nmap scan report for kiot-1.geod.agh.edu.pl (149.156.118.146)
+Nmap scan report for jczaja.geod.agh.edu.pl (149.156.118.147)
+Nmap scan report for landinfo.geod.agh.edu.pl (149.156.118.148)
+Nmap scan report for buba.geod.agh.edu.pl (149.156.118.149)
+Nmap scan report for 149.156.118.150
+Nmap scan report for odkurzacz.geod.agh.edu.pl (149.156.118.151)
+Nmap scan report for a1.geod.agh.edu.pl (149.156.118.152)
+Nmap scan report for 149.156.118.153
+Nmap scan report for ns1.geod.agh.edu.pl (149.156.118.154)
+Nmap scan report for lk.geod.agh.edu.pl (149.156.118.155)
+Nmap scan report for arva.geod.agh.edu.pl (149.156.118.156)
+Nmap scan report for 149.156.118.157
+Nmap scan report for rkrzyzek.geod.agh.edu.pl (149.156.118.158)
+Nmap scan report for ns2.geod.agh.edu.pl (149.156.118.159)
+Nmap scan report for remac.geod.agh.edu.pl (149.156.118.160)
+Nmap scan report for picasso.geod.agh.edu.pl (149.156.118.161)
+Nmap scan report for 149.156.118.162
+Nmap scan report for sylwia.geod.agh.edu.pl (149.156.118.163)
+Nmap scan report for s102.geod.agh.edu.pl (149.156.118.164)
+Nmap scan report for larix.geod.agh.edu.pl (149.156.118.165)
+Nmap scan report for ozon.geod.agh.edu.pl (149.156.118.166)
+Nmap scan report for peter.geod.agh.edu.pl (149.156.118.167)
+Nmap scan report for 149.156.118.168
+Nmap scan report for 149.156.118.169
+Nmap scan report for turkus.geod.agh.edu.pl (149.156.118.170)
+Nmap scan report for nimbus.geod.agh.edu.pl (149.156.118.171)
+Nmap scan report for porterniac4.geod.agh.edu.pl (149.156.118.172)
+Nmap scan report for surfer.geod.agh.edu.pl (149.156.118.173)
+Nmap scan report for lola.geod.agh.edu.pl (149.156.118.174)
+Nmap scan report for sintiara.geod.agh.edu.pl (149.156.118.175)
+Nmap scan report for pp2.geod.agh.edu.pl (149.156.118.176)
+Nmap scan report for annaprzewie.geod.agh.edu.pl (149.156.118.177)
+Nmap scan report for asp.geod.agh.edu.pl (149.156.118.178)
+Nmap scan report for ak.geod.agh.edu.pl (149.156.118.179)
+Nmap scan report for 149.156.118.180
+Nmap scan report for 149.156.118.181
+Nmap scan report for marekb.geod.agh.edu.pl (149.156.118.182)
+Nmap scan report for 149.156.118.183
+Nmap scan report for 149.156.118.184
+Nmap scan report for 149.156.118.185
+Nmap scan report for 149.156.118.186
+Nmap scan report for bd.geod.agh.edu.pl (149.156.118.187)
+Nmap scan report for www.rid.agh.edu.pl (149.156.118.188)
+Nmap scan report for 149.156.118.189
+Nmap scan report for mobil2.geod.agh.edu.pl (149.156.118.190)
+Nmap scan report for kiot417.geod.agh.edu.pl (149.156.118.191)
+Nmap scan report for basista.geod.agh.edu.pl (149.156.118.192)
+Nmap scan report for agni.geod.agh.edu.pl (149.156.118.193)
+Nmap scan report for elena.geod.agh.edu.pl (149.156.118.194)
+Nmap scan report for gpsf.geod.agh.edu.pl (149.156.118.195)
+Nmap scan report for gps4.geod.agh.edu.pl (149.156.118.196)
+Nmap scan report for 149.156.118.197
+Nmap scan report for grafika.geod.agh.edu.pl (149.156.118.198)
+Nmap scan report for 149.156.118.199
+Nmap scan report for abakan.geod.agh.edu.pl (149.156.118.200)
+Nmap scan report for mercury.geod.agh.edu.pl (149.156.118.201)
+Nmap scan report for giro.geod.agh.edu.pl (149.156.118.202)
+Nmap scan report for bobik.geod.agh.edu.pl (149.156.118.203)
+Nmap scan report for tomek310.geod.agh.edu.pl (149.156.118.204)
+Nmap scan report for marylka.geod.agh.edu.pl (149.156.118.205)
+Nmap scan report for komplex.geod.agh.edu.pl (149.156.118.206)
+Nmap scan report for 149.156.118.207
+Nmap scan report for 149.156.118.208
+Nmap scan report for zanzibar.geod.agh.edu.pl (149.156.118.209)
+Nmap scan report for krak.geod.agh.edu.pl (149.156.118.210)
+Nmap scan report for gps1.geod.agh.edu.pl (149.156.118.211)
+Nmap scan report for diament.geod.agh.edu.pl (149.156.118.212)
+Nmap scan report for iudicium6.geod.agh.edu.pl (149.156.118.213)
+Nmap scan report for wrss.geod.agh.edu.pl (149.156.118.214)
+Nmap scan report for bj.geod.agh.edu.pl (149.156.118.215)
+Nmap scan report for 149.156.118.216
+Nmap scan report for mapp1.geod.agh.edu.pl (149.156.118.217)
+Nmap scan report for 149.156.118.218
+Nmap scan report for dephos.geod.agh.edu.pl (149.156.118.219)
+Nmap scan report for http2.geod.agh.edu.pl (149.156.118.220)
+Nmap scan report for iza.geod.agh.edu.pl (149.156.118.221)
+Nmap scan report for gip311c.geod.agh.edu.pl (149.156.118.222)
+Nmap scan report for 149.156.118.223
+Nmap scan report for 149.156.118.224
+Nmap scan report for mapp4.geod.agh.edu.pl (149.156.118.225)
+Nmap scan report for amilopro.geod.agh.edu.pl (149.156.118.226)
+Nmap scan report for s301.geod.agh.edu.pl (149.156.118.227)
+Nmap scan report for cumulus.geod.agh.edu.pl (149.156.118.228)
+Nmap scan report for 149.156.118.229
+Nmap scan report for wojcik.geod.agh.edu.pl (149.156.118.230)
+Nmap scan report for gip316d.geod.agh.edu.pl (149.156.118.231)
+Nmap scan report for ridus.geod.agh.edu.pl (149.156.118.232)
+Nmap scan report for mapp2.geod.agh.edu.pl (149.156.118.233)
+Nmap scan report for grant.geod.agh.edu.pl (149.156.118.234)
+Nmap scan report for mapp3.geod.agh.edu.pl (149.156.118.235)
+Nmap scan report for toshiba.geod.agh.edu.pl (149.156.118.236)
+Nmap scan report for pp.geod.agh.edu.pl (149.156.118.237)
+Nmap scan report for s106.geod.agh.edu.pl (149.156.118.238)
+Nmap scan report for hpmini.geod.agh.edu.pl (149.156.118.239)
+Nmap scan report for atlantis.geod.agh.edu.pl (149.156.118.240)
+Nmap scan report for geotermia.geod.agh.edu.pl (149.156.118.241)
+Nmap scan report for 149.156.118.242
+Nmap scan report for gpr.geod.agh.edu.pl (149.156.118.243)
+Nmap scan report for jesion.geod.agh.edu.pl (149.156.118.244)
+Nmap scan report for 149.156.118.245
+Nmap scan report for 149.156.118.246
+Nmap scan report for agh-pc.geod.agh.edu.pl (149.156.118.247)
+Nmap scan report for kgib.geod.agh.edu.pl (149.156.118.248)
+Nmap scan report for 149.156.118.249
+Nmap scan report for b1rtr.agh.edu.pl (149.156.118.250)
+Nmap scan report for gisserver.geod.agh.edu.pl (149.156.118.251)
+Nmap scan report for gisdata.geod.agh.edu.pl (149.156.118.252)
+Nmap scan report for test1.geod.agh.edu.pl (149.156.118.253)
+Nmap scan report for portalgis.geod.agh.edu.pl (149.156.118.254)
+Nmap scan report for 149.156.118.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 8.08 seconds

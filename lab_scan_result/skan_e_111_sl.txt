@@ -1,0 +1,259 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:02 CEST
+Nmap scan report for 149.156.111.0
+Nmap scan report for rysy.metal.agh.edu.pl (149.156.111.1)
+Nmap scan report for zawrat.metal.agh.edu.pl (149.156.111.2)
+Nmap scan report for gorc.metal.agh.edu.pl (149.156.111.3)
+Nmap scan report for turbacz.metal.agh.edu.pl (149.156.111.4)
+Nmap scan report for ltx.metal.agh.edu.pl (149.156.111.5)
+Nmap scan report for beskid.metal.agh.edu.pl (149.156.111.6)
+Nmap scan report for lubon.metal.agh.edu.pl (149.156.111.7)
+Nmap scan report for 149.156.111.8
+Nmap scan report for 149.156.111.9
+Nmap scan report for sendzimir.metal.agh.edu.pl (149.156.111.10)
+Nmap scan report for turczyn.metal.agh.edu.pl (149.156.111.11)
+Nmap scan report for kuzminsk.metal.agh.edu.pl (149.156.111.12)
+Nmap scan report for karol.metal.agh.edu.pl (149.156.111.13)
+Nmap scan report for hkusiak.metal.agh.edu.pl (149.156.111.14)
+Nmap scan report for nowakows.metal.agh.edu.pl (149.156.111.15)
+Nmap scan report for mnich.metal.agh.edu.pl (149.156.111.16)
+Nmap scan report for kusiak.metal.agh.edu.pl (149.156.111.17)
+Nmap scan report for guru.metal.agh.edu.pl (149.156.111.18)
+Nmap scan report for model.metal.agh.edu.pl (149.156.111.19)
+Nmap scan report for madej.metal.agh.edu.pl (149.156.111.20)
+Nmap scan report for packo.metal.agh.edu.pl (149.156.111.21)
+Nmap scan report for majta.metal.agh.edu.pl (149.156.111.22)
+Nmap scan report for szef.metal.agh.edu.pl (149.156.111.23)
+Nmap scan report for lupus.metal.agh.edu.pl (149.156.111.24)
+Nmap scan report for kajtoch.metal.agh.edu.pl (149.156.111.25)
+Nmap scan report for luksza.metal.agh.edu.pl (149.156.111.26)
+Nmap scan report for viking.metal.agh.edu.pl (149.156.111.27)
+Nmap scan report for bardo.metal.agh.edu.pl (149.156.111.28)
+Nmap scan report for 149.156.111.29
+Nmap scan report for 149.156.111.30
+Nmap scan report for szczepan.metal.agh.edu.pl (149.156.111.31)
+Nmap scan report for a1400.metal.agh.edu.pl (149.156.111.32)
+Nmap scan report for sinczak.metal.agh.edu.pl (149.156.111.33)
+Nmap scan report for szyndler.metal.agh.edu.pl (149.156.111.34)
+Nmap scan report for 149.156.111.35
+Nmap scan report for jack.metal.agh.edu.pl (149.156.111.36)
+Nmap scan report for grzesiak.metal.agh.edu.pl (149.156.111.37)
+Nmap scan report for okon.metal.agh.edu.pl (149.156.111.38)
+Nmap scan report for ppm.metal.agh.edu.pl (149.156.111.39)
+Nmap scan report for majta2.metal.agh.edu.pl (149.156.111.40)
+Nmap scan report for labppm.metal.agh.edu.pl (149.156.111.41)
+Nmap scan report for aneta.metal.agh.edu.pl (149.156.111.42)
+Nmap scan report for ludka.metal.agh.edu.pl (149.156.111.43)
+Nmap scan report for kazan.metal.agh.edu.pl (149.156.111.44)
+Nmap scan report for misiek.metal.agh.edu.pl (149.156.111.45)
+Nmap scan report for adam.metal.agh.edu.pl (149.156.111.46)
+Nmap scan report for chris.metal.agh.edu.pl (149.156.111.47)
+Nmap scan report for ama.metal.agh.edu.pl (149.156.111.48)
+Nmap scan report for kamila.metal.agh.edu.pl (149.156.111.49)
+Nmap scan report for 149.156.111.50
+Nmap scan report for ciesla.metal.agh.edu.pl (149.156.111.51)
+Nmap scan report for sekula.metal.agh.edu.pl (149.156.111.52)
+Nmap scan report for ziam.metal.agh.edu.pl (149.156.111.53)
+Nmap scan report for kurcz.metal.agh.edu.pl (149.156.111.54)
+Nmap scan report for gielzeck.metal.agh.edu.pl (149.156.111.55)
+Nmap scan report for kolaczko.metal.agh.edu.pl (149.156.111.56)
+Nmap scan report for trash.metal.agh.edu.pl (149.156.111.57)
+Nmap scan report for buczek.metal.agh.edu.pl (149.156.111.58)
+Nmap scan report for michal.metal.agh.edu.pl (149.156.111.59)
+Nmap scan report for majka.metal.agh.edu.pl (149.156.111.60)
+Nmap scan report for delta.metal.agh.edu.pl (149.156.111.61)
+Nmap scan report for telejko.metal.agh.edu.pl (149.156.111.62)
+Nmap scan report for ziam1.metal.agh.edu.pl (149.156.111.63)
+Nmap scan report for ziam2.metal.agh.edu.pl (149.156.111.64)
+Nmap scan report for jarek.metal.agh.edu.pl (149.156.111.65)
+Nmap scan report for siudek.metal.agh.edu.pl (149.156.111.66)
+Nmap scan report for ciezak.metal.agh.edu.pl (149.156.111.67)
+Nmap scan report for lab106.metal.agh.edu.pl (149.156.111.68)
+Nmap scan report for stadnik.metal.agh.edu.pl (149.156.111.69)
+Nmap scan report for kot.metal.agh.edu.pl (149.156.111.70)
+Nmap scan report for marek.metal.agh.edu.pl (149.156.111.71)
+Nmap scan report for ztcios.metal.agh.edu.pl (149.156.111.72)
+Nmap scan report for ag.metal.agh.edu.pl (149.156.111.73)
+Nmap scan report for aw.metal.agh.edu.pl (149.156.111.74)
+Nmap scan report for jnocon.metal.agh.edu.pl (149.156.111.75)
+Nmap scan report for p4.metal.agh.edu.pl (149.156.111.76)
+Nmap scan report for zw.metal.agh.edu.pl (149.156.111.77)
+Nmap scan report for mr.metal.agh.edu.pl (149.156.111.78)
+Nmap scan report for muszka.metal.agh.edu.pl (149.156.111.79)
+Nmap scan report for stefansz.metal.agh.edu.pl (149.156.111.80)
+Nmap scan report for bh.metal.agh.edu.pl (149.156.111.81)
+Nmap scan report for mg.metal.agh.edu.pl (149.156.111.82)
+Nmap scan report for tomek.metal.agh.edu.pl (149.156.111.83)
+Nmap scan report for bartek.metal.agh.edu.pl (149.156.111.84)
+Nmap scan report for puma.metal.agh.edu.pl (149.156.111.85)
+Nmap scan report for bd.metal.agh.edu.pl (149.156.111.86)
+Nmap scan report for wolny.metal.agh.edu.pl (149.156.111.87)
+Nmap scan report for aga.metal.agh.edu.pl (149.156.111.88)
+Nmap scan report for leko.metal.agh.edu.pl (149.156.111.89)
+Nmap scan report for kasia.metal.agh.edu.pl (149.156.111.90)
+Nmap scan report for energet1.metal.agh.edu.pl (149.156.111.91)
+Nmap scan report for energet2.metal.agh.edu.pl (149.156.111.92)
+Nmap scan report for energet3.metal.agh.edu.pl (149.156.111.93)
+Nmap scan report for energet4.metal.agh.edu.pl (149.156.111.94)
+Nmap scan report for mich106.metal.agh.edu.pl (149.156.111.95)
+Nmap scan report for lukaszw.metal.agh.edu.pl (149.156.111.96)
+Nmap scan report for kaina.metal.agh.edu.pl (149.156.111.97)
+Nmap scan report for mwilk.metal.agh.edu.pl (149.156.111.98)
+Nmap scan report for szajding.metal.agh.edu.pl (149.156.111.99)
+Nmap scan report for 149.156.111.100
+Nmap scan report for 149.156.111.101
+Nmap scan report for 149.156.111.102
+Nmap scan report for 149.156.111.103
+Nmap scan report for lpa-ka.metal.agh.edu.pl (149.156.111.104)
+Nmap scan report for 149.156.111.105
+Nmap scan report for 149.156.111.106
+Nmap scan report for 149.156.111.107
+Nmap scan report for 149.156.111.108
+Nmap scan report for sosna.metal.agh.edu.pl (149.156.111.109)
+Nmap scan report for sosna2.metal.agh.edu.pl (149.156.111.110)
+Nmap scan report for limba1.metal.agh.edu.pl (149.156.111.111)
+Nmap scan report for limba2.metal.agh.edu.pl (149.156.111.112)
+Nmap scan report for limba3.metal.agh.edu.pl (149.156.111.113)
+Nmap scan report for limba4.metal.agh.edu.pl (149.156.111.114)
+Nmap scan report for limba5.metal.agh.edu.pl (149.156.111.115)
+Nmap scan report for limba6.metal.agh.edu.pl (149.156.111.116)
+Nmap scan report for limba7.metal.agh.edu.pl (149.156.111.117)
+Nmap scan report for limba8.metal.agh.edu.pl (149.156.111.118)
+Nmap scan report for limba9.metal.agh.edu.pl (149.156.111.119)
+Nmap scan report for limba10.metal.agh.edu.pl (149.156.111.120)
+Nmap scan report for limba11.metal.agh.edu.pl (149.156.111.121)
+Nmap scan report for limba12.metal.agh.edu.pl (149.156.111.122)
+Nmap scan report for limba13.metal.agh.edu.pl (149.156.111.123)
+Nmap scan report for limba14.metal.agh.edu.pl (149.156.111.124)
+Nmap scan report for limba15.metal.agh.edu.pl (149.156.111.125)
+Nmap scan report for limba16.metal.agh.edu.pl (149.156.111.126)
+Nmap scan report for 149.156.111.127
+Nmap scan report for 149.156.111.128
+Nmap scan report for 149.156.111.129
+Nmap scan report for 149.156.111.130
+Nmap scan report for giewont.metal.agh.edu.pl (149.156.111.131)
+Nmap scan report for bb.metal.agh.edu.pl (149.156.111.132)
+Nmap scan report for dima.metal.agh.edu.pl (149.156.111.133)
+Nmap scan report for skolysz.metal.agh.edu.pl (149.156.111.134)
+Nmap scan report for szt-agh.metal.agh.edu.pl (149.156.111.135)
+Nmap scan report for slalek.metal.agh.edu.pl (149.156.111.136)
+Nmap scan report for las.metal.agh.edu.pl (149.156.111.137)
+Nmap scan report for luk15.metal.agh.edu.pl (149.156.111.138)
+Nmap scan report for ajedrzej.metal.agh.edu.pl (149.156.111.139)
+Nmap scan report for jerzak.metal.agh.edu.pl (149.156.111.140)
+Nmap scan report for lhotse.metal.agh.edu.pl (149.156.111.141)
+Nmap scan report for onion.metal.agh.edu.pl (149.156.111.142)
+Nmap scan report for krzyzano.metal.agh.edu.pl (149.156.111.143)
+Nmap scan report for 149.156.111.144
+Nmap scan report for 149.156.111.145
+Nmap scan report for 149.156.111.146
+Nmap scan report for 149.156.111.147
+Nmap scan report for 149.156.111.148
+Nmap scan report for 149.156.111.149
+Nmap scan report for mobile.metal.agh.edu.pl (149.156.111.150)
+Nmap scan report for 149.156.111.151
+Nmap scan report for 149.156.111.152
+Nmap scan report for 149.156.111.153
+Nmap scan report for 149.156.111.154
+Nmap scan report for 149.156.111.155
+Nmap scan report for 149.156.111.156
+Nmap scan report for 149.156.111.157
+Nmap scan report for 149.156.111.158
+Nmap scan report for 149.156.111.159
+Nmap scan report for 149.156.111.160
+Nmap scan report for sg1.adm.agh.edu.pl (149.156.111.161)
+Nmap scan report for 149.156.111.162
+Nmap scan report for 149.156.111.163
+Nmap scan report for 149.156.111.164
+Nmap scan report for 149.156.111.165
+Nmap scan report for 149.156.111.166
+Nmap scan report for 149.156.111.167
+Nmap scan report for 149.156.111.168
+Nmap scan report for licz-b4.adm.agh.edu.pl (149.156.111.169)
+Nmap scan report for 149.156.111.170
+Nmap scan report for 149.156.111.171
+Nmap scan report for borg.ia.agh.edu.pl (149.156.111.172)
+Nmap scan report for alvis.ia.agh.edu.pl (149.156.111.173)
+Nmap scan report for xmatys.ia.agh.edu.pl (149.156.111.174)
+Nmap scan report for awing.ia.agh.edu.pl (149.156.111.175)
+Nmap scan report for 149.156.111.176
+Nmap scan report for 149.156.111.177
+Nmap scan report for 149.156.111.178
+Nmap scan report for 149.156.111.179
+Nmap scan report for 149.156.111.180
+Nmap scan report for 149.156.111.181
+Nmap scan report for 149.156.111.182
+Nmap scan report for 149.156.111.183
+Nmap scan report for 149.156.111.184
+Nmap scan report for 149.156.111.185
+Nmap scan report for 149.156.111.186
+Nmap scan report for 149.156.111.187
+Nmap scan report for 149.156.111.188
+Nmap scan report for 149.156.111.189
+Nmap scan report for olimp190.imir.agh.edu.pl (149.156.111.190)
+Nmap scan report for olimp191.imir.agh.edu.pl (149.156.111.191)
+Nmap scan report for olimp192.imir.agh.edu.pl (149.156.111.192)
+Nmap scan report for olimp193.imir.agh.edu.pl (149.156.111.193)
+Nmap scan report for olimp194.imir.agh.edu.pl (149.156.111.194)
+Nmap scan report for olimp195.imir.agh.edu.pl (149.156.111.195)
+Nmap scan report for olimp196.imir.agh.edu.pl (149.156.111.196)
+Nmap scan report for olimp197.imir.agh.edu.pl (149.156.111.197)
+Nmap scan report for b4.sdb.agh.edu.pl (149.156.111.198)
+Nmap scan report for tytan.imir.agh.edu.pl (149.156.111.199)
+Nmap scan report for smok.imir.agh.edu.pl (149.156.111.200)
+Nmap scan report for wlodek.imir.agh.edu.pl (149.156.111.201)
+Nmap scan report for stefan.imir.agh.edu.pl (149.156.111.202)
+Nmap scan report for krokusnt.imir.agh.edu.pl (149.156.111.203)
+Nmap scan report for catia.imir.agh.edu.pl (149.156.111.204)
+Nmap scan report for ajan.imir.agh.edu.pl (149.156.111.205)
+Nmap scan report for 149.156.111.206
+Nmap scan report for szpytko.imir.agh.edu.pl (149.156.111.207)
+Nmap scan report for joanna.imir.agh.edu.pl (149.156.111.208)
+Nmap scan report for szafir.imir.agh.edu.pl (149.156.111.209)
+Nmap scan report for hprtr.imir.agh.edu.pl (149.156.111.210)
+Nmap scan report for debosz.imir.agh.edu.pl (149.156.111.211)
+Nmap scan report for dflaga.imir.agh.edu.pl (149.156.111.212)
+Nmap scan report for olimp13.imir.agh.edu.pl (149.156.111.213)
+Nmap scan report for wisla.imir.agh.edu.pl (149.156.111.214)
+Nmap scan report for karwat.imir.agh.edu.pl (149.156.111.215)
+Nmap scan report for rhea.imir.agh.edu.pl (149.156.111.216)
+Nmap scan report for gafcio.imir.agh.edu.pl (149.156.111.217)
+Nmap scan report for atena.imir.agh.edu.pl (149.156.111.218)
+Nmap scan report for lab204.imir.agh.edu.pl (149.156.111.219)
+Nmap scan report for schab.imir.agh.edu.pl (149.156.111.220)
+Nmap scan report for olimp21.imir.agh.edu.pl (149.156.111.221)
+Nmap scan report for olimp22.imir.agh.edu.pl (149.156.111.222)
+Nmap scan report for olimp23.imir.agh.edu.pl (149.156.111.223)
+Nmap scan report for przemeks.imir.agh.edu.pl (149.156.111.224)
+Nmap scan report for olimp25.imir.agh.edu.pl (149.156.111.225)
+Nmap scan report for switch3com.imir.agh.edu.pl (149.156.111.226)
+Nmap scan report for wwww.imir.agh.edu.pl (149.156.111.227)
+Nmap scan report for zeus.imir.agh.edu.pl (149.156.111.228)
+Nmap scan report for krokus.imir.agh.edu.pl (149.156.111.229)
+Nmap scan report for olimp30.imir.agh.edu.pl (149.156.111.230)
+Nmap scan report for olimp31.imir.agh.edu.pl (149.156.111.231)
+Nmap scan report for olimp32.imir.agh.edu.pl (149.156.111.232)
+Nmap scan report for olimp33.imir.agh.edu.pl (149.156.111.233)
+Nmap scan report for smoczek.imir.agh.edu.pl (149.156.111.234)
+Nmap scan report for feniks.imir.agh.edu.pl (149.156.111.235)
+Nmap scan report for szpytko2.imir.agh.edu.pl (149.156.111.236)
+Nmap scan report for michlowi1.imir.agh.edu.pl (149.156.111.237)
+Nmap scan report for michlowi2.imir.agh.edu.pl (149.156.111.238)
+Nmap scan report for olimp39.imir.agh.edu.pl (149.156.111.239)
+Nmap scan report for dragon.imir.agh.edu.pl (149.156.111.240)
+Nmap scan report for chodacki.imir.agh.edu.pl (149.156.111.241)
+Nmap scan report for olimp42.imir.agh.edu.pl (149.156.111.242)
+Nmap scan report for olimp43.imir.agh.edu.pl (149.156.111.243)
+Nmap scan report for olimp44.imir.agh.edu.pl (149.156.111.244)
+Nmap scan report for pcw.imir.agh.edu.pl (149.156.111.245)
+Nmap scan report for olimp46.imir.agh.edu.pl (149.156.111.246)
+Nmap scan report for olimp47.imir.agh.edu.pl (149.156.111.247)
+Nmap scan report for aelius.imir.agh.edu.pl (149.156.111.248)
+Nmap scan report for olimp49.imir.agh.edu.pl (149.156.111.249)
+Nmap scan report for b4rtr.agh.edu.pl (149.156.111.250)
+Nmap scan report for anha.imir.agh.edu.pl (149.156.111.251)
+Nmap scan report for 149.156.111.252
+Nmap scan report for 149.156.111.253
+Nmap scan report for 149.156.111.254
+Nmap scan report for 149.156.111.255
+Nmap done: 256 IP addresses (0 hosts up) scanned in 7.67 seconds

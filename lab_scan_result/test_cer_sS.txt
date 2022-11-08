@@ -1,0 +1,95 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-10-27 11:12 CEST
+Nmap scan report for ca0-011.ceramika.agh.edu.pl (149.156.120.11)
+Host is up (0.00056s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+15002/tcp open  unknown
+15003/tcp open  unknown
+
+Nmap scan report for ca0-012.ceramika.agh.edu.pl (149.156.120.12)
+Host is up (0.00045s latency).
+Not shown: 991 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+427/tcp  open  svrloc
+515/tcp  open  printer
+631/tcp  open  ipp
+2000/tcp open  cisco-sccp
+5200/tcp open  targus-getdata
+8080/tcp open  http-proxy
+8180/tcp open  unknown
+9100/tcp open  jetdirect
+
+Nmap scan report for ca0-044.ceramika.agh.edu.pl (149.156.120.44)
+Host is up (0.0016s latency).
+Not shown: 996 closed ports
+PORT     STATE    SERVICE
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+5357/tcp filtered wsdapi
+
+Nmap scan report for ca0-032.ceramika.agh.edu.pl (149.156.120.32)
+Host is up (0.00059s latency).
+Not shown: 991 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+514/tcp  open  shell
+515/tcp  open  printer
+631/tcp  open  ipp
+7443/tcp open  oracleas-https
+9100/tcp open  jetdirect
+
+Nmap scan report for ca0-056.ceramika.agh.edu.pl (149.156.120.56)
+Host is up (0.00056s latency).
+Not shown: 991 closed ports
+PORT      STATE    SERVICE
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+445/tcp   filtered microsoft-ds
+16992/tcp filtered amt-soap-http
+49152/tcp filtered unknown
+49153/tcp filtered unknown
+49154/tcp filtered unknown
+49155/tcp filtered unknown
+49156/tcp filtered unknown
+
+Nmap scan report for ca0-062.ceramika.agh.edu.pl (149.156.120.62)
+Host is up (0.0014s latency).
+Not shown: 993 closed ports
+PORT     STATE    SERVICE
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1801/tcp open     msmq
+2103/tcp open     zephyr-clt
+2105/tcp open     eklogin
+2107/tcp open     msmq-mgmt
+
+Nmap scan report for cb6-132.ceramika.agh.edu.pl (149.156.120.132)
+Host is up (0.00077s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+
+Nmap scan report for cb6-146.ceramika.agh.edu.pl (149.156.120.146)
+Host is up (0.00044s latency).
+Not shown: 997 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+15002/tcp open  unknown
+15003/tcp open  unknown
+
+Nmap done: 8 IP addresses (8 hosts up) scanned in 215.67 seconds
