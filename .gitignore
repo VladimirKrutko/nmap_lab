@@ -1,2 +1,6 @@
 /.ipynb_checkpoints
 /__pycache__
+/Scripts
+pyvenv.cfg
+/.idea
+/nmap_venv
